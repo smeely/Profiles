@@ -1,5 +1,16 @@
 {
-	"Creator": "Hinshee",
-	"Version": "1.0",
+    "ProfileICAO": "EGNX",
+    "Creator": "Hinshee",
+    "Version": "1.0",
+    "Configurations": "GSX",
+    "GSXConfFiles": [
+        {
+            "Name": "EGNX-Pyreegue-Hinshee.ini"
+        },
+        {
+            "Name": "EGNX-Pyreegue-Hinshee.py"
+        }
+    ],
+    "NoolConfFiles": [],
+    "OtherConfFiles": []
 }
-	
