@@ -26,6 +26,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Add test file"
-          branch: test-pr-branch
+          branch: test-pr-branch # Head branch
+          base: main             # Target branch
           title: "Test PR"
           body: "This is a test pull request."
