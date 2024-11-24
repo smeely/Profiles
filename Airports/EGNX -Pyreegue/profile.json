@@ -5,10 +5,10 @@
     "Configurations": "GSX",
     "GSXConfFiles": [
         {
-            "Name": "EGNX-Pyreegue-Hinshee.ini"
+            "Name": "egnx-Pyreegue-Hinshee.ini"
         },
         {
-            "Name": "EGNX-Pyreegue-Hinshee.py"
+            "Name": "egnx-Pyreegue-Hinshee.py"
         }
     ],
     "NoolConfFiles": [],
