@@ -11,26 +11,24 @@ def get_profiles_data():
             if file == 'profiles.json':
                 with open(os.path.join(root, file)) as f:
                     data = json.load(f)
-                    profiles_data.append(data)
+                    profiles_data.append({
+                        "Folder": os.path.basename(root),
+                        "ProfileICAO": data["ProfileICAO"],
+                        "Scenery": data["Scenery"],
+                        "Creator": data["Creator"],
+                        "Version": data["Version"],
+                        "Files": []
+                    })
     return profiles_data
 
 def update_avail_profiles(profiles_data):
-    avail_profiles = []
     for profile in profiles_data:
-        entry = {
-            "Folder": os.path.basename(os.path.dirname(profile)),
-            "ProfileICAO": profile["ProfileICAO"],
-            "Scenery": profile["Scenery"],
-            "Creator": profile["Creator"],
-            "Version": profile["Version"],
-            "Files": []
-        }
-        for root, dirs, files in os.walk(os.path.dirname(profile)):
+        profile_folder = os.path.join(airports_dir, profile["Folder"])
+        for root, dirs, files in os.walk(profile_folder):
             for file in files:
                 if file.endswith('.ini') or file.endswith('.py'):
-                    entry["Files"].append({"Name": file})
-        avail_profiles.append(entry)
-    return avail_profiles
+                    profile["Files"].append({"Name": file})
+    return profiles_data
 
 def main():
     profiles_data = get_profiles_data()
