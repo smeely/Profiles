@@ -1,6 +1,9 @@
-{
-    "EGNX -Pyreegue": {
-        "Version": 1,
+[
+    {
+        "ProfileICAO": "EGNX",
+        "Scenery": "Pyreegue",
+        "Creator": "Hinshee",
+        "Version": 1.6,
         "Files": [
             {
                 "Name": "egnx-Pyreegue-Hinshee.ini"
@@ -10,4 +13,4 @@
             }
         ]
     }
-}
+]
