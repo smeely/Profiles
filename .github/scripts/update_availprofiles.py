@@ -9,7 +9,9 @@ def get_profiles_data():
     for root, dirs, files in os.walk(airports_dir):
         for file in files:
             if file == 'profiles.json':
-                with open(os.path.join(root, file)) as f:
+                profile_path = os.path.join(root, file)
+                print(f"Found profiles.json at: {profile_path}")
+                with open(profile_path) as f:
                     data = json.load(f)
                     profiles_data.append({
                         "Folder": os.path.basename(root),
