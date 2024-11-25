@@ -8,7 +8,7 @@ def get_profiles_data():
     profiles_data = []
     for root, dirs, files in os.walk(airports_dir):
         for file in files:
-            if file == 'profiles.json':
+            if file == 'profile.json':
                 profile_path = os.path.join(root, file)
                 print(f"Found profiles.json at: {profile_path}")
                 with open(profile_path) as f:
@@ -36,7 +36,7 @@ def main():
     print("Starting to update AvailProfiles.json")
     profiles_data = get_profiles_data()
     if not profiles_data:
-        print("No profiles.json files found.")
+        print("No profile.json files found.")
     avail_profiles = update_avail_profiles(profiles_data)
     with open(avail_profiles_path, 'w') as f:
         json.dump(avail_profiles, f, indent=4)
