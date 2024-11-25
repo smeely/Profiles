@@ -13,10 +13,10 @@ def get_profiles_data():
                     data = json.load(f)
                     profiles_data.append({
                         "Folder": os.path.basename(root),
-                        "ProfileICAO": data["ProfileICAO"],
-                        "Scenery": data["Scenery"],
-                        "Creator": data["Creator"],
-                        "Version": data["Version"],
+                        "ProfileICAO": data.get("ProfileICAO", ""),
+                        "Scenery": data.get("Scenery", ""),
+                        "Creator": data.get("Creator", ""),
+                        "Version": data.get("Version", 0),
                         "Files": []
                     })
     return profiles_data
@@ -31,10 +31,14 @@ def update_avail_profiles(profiles_data):
     return profiles_data
 
 def main():
+    print("Starting to update AvailProfiles.json")
     profiles_data = get_profiles_data()
+    if not profiles_data:
+        print("No profiles.json files found.")
     avail_profiles = update_avail_profiles(profiles_data)
     with open(avail_profiles_path, 'w') as f:
         json.dump(avail_profiles, f, indent=4)
+    print("AvailProfiles.json has been updated.")
 
 if __name__ == '__main__':
     main()
