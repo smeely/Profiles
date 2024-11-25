@@ -1,0 +1,17 @@
+{
+    "ProfileICAO": "EDDG",
+	"Scenery": "M'M Simulations",
+    "Creator": "Hinshee",
+    "Version": 1,
+    "Configurations": "GSX",
+    "GSXConfFiles": [
+        {
+            "Name": "eddg-mmsimulations-hinshee.ini"
+        },
+		{
+            "Name": "eddg-mmsimulations-hinshee.py"
+        }
+    ],
+    "NoolConfFiles": [],
+    "OtherConfFiles": []
+}

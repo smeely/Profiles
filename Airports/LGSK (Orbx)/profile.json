@@ -1,0 +1,14 @@
+{
+    "ProfileICAO": "LGSK",
+	"Scenery": "Orbx",
+    "Creator": "Hinshee",
+    "Version": 1,
+    "Configurations": "GSX",
+    "GSXConfFiles": [
+        {
+            "Name": "lgsk-orbx-hinshee.ini"
+        }
+    ],
+    "NoolConfFiles": [],
+    "OtherConfFiles": []
+}

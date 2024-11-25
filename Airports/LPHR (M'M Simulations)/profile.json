@@ -1,0 +1,17 @@
+{
+    "ProfileICAO": "LPHR",
+	"Scenery": "M'M Simulations",
+    "Creator": "Hinshee",
+    "Version": 1,
+    "Configurations": "GSX",
+    "GSXConfFiles": [
+        {
+            "Name": "lphr-mmsimulations-hinshee.ini"
+        },
+		{
+            "Name": "lphr-mmsimulations-hinshee.py"
+        }
+    ],
+    "NoolConfFiles": [],
+    "OtherConfFiles": []
+}

@@ -1,0 +1,14 @@
+{
+    "ProfileICAO": "EBLG",
+	"Scenery": "M'M Simulations",
+    "Creator": "Hinshee",
+    "Version": 1,
+    "Configurations": "GSX",
+    "GSXConfFiles": [
+        {
+            "Name": "eblg-mmsimulations-hinshee.ini"
+        }
+    ],
+    "NoolConfFiles": [],
+    "OtherConfFiles": []
+}

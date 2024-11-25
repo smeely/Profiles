@@ -1,7 +1,8 @@
 {
     "ProfileICAO": "EGNX",
+	"Scenery": "Pyreegue",
     "Creator": "Hinshee",
-    "Version": "1.6",
+    "Version": 1.6,
     "Configurations": "GSX",
     "GSXConfFiles": [
         {

@@ -1,0 +1,14 @@
+{
+    "ProfileICAO": "LIPK",
+	"Scenery": "AmSim",
+    "Creator": "Hinshee",
+    "Version": 1,
+    "Configurations": "GSX",
+    "GSXConfFiles": [
+        {
+            "Name": "lipk-amsim-hinshee.ini"
+        }
+    ],
+    "NoolConfFiles": [],
+    "OtherConfFiles": []
+}

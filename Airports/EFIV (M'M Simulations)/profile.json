@@ -1,0 +1,14 @@
+{
+    "ProfileICAO": "EFIV",
+	"Scenery": "M'M Simulations",
+    "Creator": "Hinshee",
+    "Version": 1,
+    "Configurations": "GSX",
+    "GSXConfFiles": [
+        {
+            "Name": "efiv-mmsimulations-hinshee.ini"
+        }
+    ],
+    "NoolConfFiles": [],
+    "OtherConfFiles": []
+}
