@@ -1,1 +1,185 @@
-[]
+[
+    {
+        "Folder": "EFTU (M'M Simulations)",
+        "ProfileICAO": "EFTU",
+        "Scenery": "M'M Simulations",
+        "Creator": "Hinshee",
+        "Version": 1,
+        "Files": [
+            {
+                "Name": "eftu-mmsimulations-hinshee.ini"
+            }
+        ]
+    },
+    {
+        "Folder": "EFET (Flightsim.to)",
+        "ProfileICAO": "EFET",
+        "Scenery": "Flightsim.to",
+        "Creator": "Hinshee",
+        "Version": 1,
+        "Files": [
+            {
+                "Name": "efet-flightsim.to-hinshee.ini"
+            }
+        ]
+    },
+    {
+        "Folder": "ENTC (M'M Simulations)",
+        "ProfileICAO": "ENTC",
+        "Scenery": "M'M Simulations",
+        "Creator": "Hinshee",
+        "Version": 1.1,
+        "Files": [
+            {
+                "Name": "entc-mmsimulations-hinshee.ini"
+            }
+        ]
+    },
+    {
+        "Folder": "BKPR (M'M Simulations)",
+        "ProfileICAO": "BKPR",
+        "Scenery": "M'M Simulations",
+        "Creator": "Hinshee",
+        "Version": 1.1,
+        "Files": [
+            {
+                "Name": "bkpr-yeurxn.ini"
+            }
+        ]
+    },
+    {
+        "Folder": "LGSK (Orbx)",
+        "ProfileICAO": "LGSK",
+        "Scenery": "Orbx",
+        "Creator": "Hinshee",
+        "Version": 1,
+        "Files": [
+            {
+                "Name": "lgsk-orbx-hinshee.ini"
+            }
+        ]
+    },
+    {
+        "Folder": "EGNX (Pyreegue)",
+        "ProfileICAO": "EGNX",
+        "Scenery": "Pyreegue",
+        "Creator": "Hinshee",
+        "Version": 1.6,
+        "Files": [
+            {
+                "Name": "egnx-Pyreegue-Hinshee.ini"
+            },
+            {
+                "Name": "egnx-Pyreegue-Hinshee.py"
+            }
+        ]
+    },
+    {
+        "Folder": "EBLG (M'M Simulations)",
+        "ProfileICAO": "EBLG",
+        "Scenery": "M'M Simulations",
+        "Creator": "Hinshee",
+        "Version": 1,
+        "Files": [
+            {
+                "Name": "eblg-mmsimulations-hinshee.ini"
+            }
+        ]
+    },
+    {
+        "Folder": "LIPK (AmSim)",
+        "ProfileICAO": "LIPK",
+        "Scenery": "AmSim",
+        "Creator": "Hinshee",
+        "Version": 1,
+        "Files": [
+            {
+                "Name": "lipk-amsim-hinshee.ini"
+            }
+        ]
+    },
+    {
+        "Folder": "EDDG (M'M Simulations)",
+        "ProfileICAO": "EDDG",
+        "Scenery": "M'M Simulations",
+        "Creator": "Hinshee",
+        "Version": 1,
+        "Files": [
+            {
+                "Name": "eddg-mmsimulations-hinshee.ini"
+            },
+            {
+                "Name": "eddg-mmsimulations-hinshee.py"
+            }
+        ]
+    },
+    {
+        "Folder": "LPHR (M'M Simulations)",
+        "ProfileICAO": "LPHR",
+        "Scenery": "M'M Simulations",
+        "Creator": "Hinshee",
+        "Version": 1,
+        "Files": [
+            {
+                "Name": "lphr-mmsimulations-hinshee.py"
+            },
+            {
+                "Name": "lphr-mmsimulations-hinshee.ini"
+            }
+        ]
+    },
+    {
+        "Folder": "ESMX (Flightsim.to)",
+        "ProfileICAO": "ESMX",
+        "Scenery": "Flightsim.to",
+        "Creator": "Hinshee",
+        "Version": 1,
+        "Files": [
+            {
+                "Name": "esmx-flightsim.to-hinshee.ini"
+            }
+        ]
+    },
+    {
+        "Folder": "EGPH (Pyreegue v2)",
+        "ProfileICAO": "EGPH",
+        "Scenery": "Pyreegue (v2)",
+        "Creator": "Hinshee",
+        "Version": 1.1,
+        "Files": [
+            {
+                "Name": "egph-pyreegue-hinshee.ini"
+            },
+            {
+                "Name": "egph-pyreegue-hinshee.py"
+            }
+        ]
+    },
+    {
+        "Folder": "KJAC (DreamFlight)",
+        "ProfileICAO": "KJAC",
+        "Scenery": "Dreamflight",
+        "Creator": "Hinshee",
+        "Version": 1.1,
+        "Files": [
+            {
+                "Name": "kjac-dreamflight-hinshee.py"
+            },
+            {
+                "Name": "kjac-dreamflight-hinshee.ini"
+            }
+        ]
+    },
+    {
+        "Folder": "EFIV (M'M Simulations)",
+        "ProfileICAO": "EFIV",
+        "Scenery": "M'M Simulations",
+        "Creator": "Hinshee",
+        "Version": 1,
+        "Files": [
+            {
+                "Name": "efiv-mmsimulations-hinshee.ini"
+            }
+        ]
+    }
+]
