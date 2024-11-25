@@ -1,5 +1,6 @@
 # -- coding: utf-8 --
 
+version = 1.6
 msfs_mode = 1
 icao = "egnx"
 
