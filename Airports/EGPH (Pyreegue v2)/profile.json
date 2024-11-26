@@ -1,6 +1,6 @@
 {
     "ProfileICAO": "EGPH",
-	"Scenery": "Pyreegue (v2)",
+    "Scenery": "Pyreegue (v2)",
     "Creator": "Hinshee",
     "Version": 1.1,
     "Configurations": "GSX",
@@ -8,10 +8,20 @@
         {
             "Name": "egph-pyreegue-hinshee.ini"
         },
-		{
-			"Name": "egph-pyreegue-hinshee.py"
-		}
+        {
+            "Name": "egph-pyreegue-hinshee.py"
+        }
     ],
     "NoolConfFiles": [],
-    "OtherConfFiles": []
+    "OtherConfFiles": [],
+    "Changelog": [
+        {
+            "Version": 1,
+            "ChangesURL": ""
+        },
+        {
+            "Version": 1.1,
+            "ChangesURL": "https://github.com/Hinshee/GSX-Profiles/pull/13"
+        }
+    ]
 }
