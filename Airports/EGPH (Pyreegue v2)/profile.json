@@ -15,13 +15,15 @@
     "NoolConfFiles": [],
     "OtherConfFiles": [],
     "Changelog": [
-        {
-            "Version": 1,
-            "ChangesURL": ""
+		{
+            "Version": 1.1,
+            "ChangesURL": "https://github.com/Hinshee/GSX-Profiles/pull/13",
+			"Date": "27/07/2024"
         },
         {
-            "Version": 1.1,
-            "ChangesURL": "https://github.com/Hinshee/GSX-Profiles/pull/13"
+            "Version": 1,
+            "ChangesURL": "",
+			"Date": "19/07/2024"
         }
     ]
 }
