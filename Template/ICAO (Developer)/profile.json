@@ -1,0 +1,29 @@
+{
+    "ProfileICAO": "",
+    "Scenery": "",
+    "Creator": "",
+    "Version": 1,
+    "Configurations": "GSX",
+    "GSXConfFiles": [
+        {
+            "Name": ""
+        },
+        {
+            "Name": ""
+        }
+    ],
+    "NoolConfFiles": [],
+    "OtherConfFiles": [],
+    "Changelog": [
+		{
+            "Version": 1.1,
+            "ChangesURL": "https://github.com/Hinshee/GSX-Profiles/pull/13",
+			"Date": "2024-07-27"
+        },
+        {
+            "Version": 1,
+            "ChangesURL": "",
+			"Date": "2024-07-19"
+        }
+    ]
+}
