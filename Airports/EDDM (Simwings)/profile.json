@@ -1,0 +1,37 @@
+{
+    "ProfileICAO": "EDDM",
+    "Scenery": "Aerosoft (Simwings)",
+    "Creator": "SimonTricks",
+    "Version": 4.1,
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "eddm-simwings.ini"
+                },
+                {
+                    "FileName": "eddm-simwings.py"
+                }
+            ]
+        },
+        {
+            "ConfigName": "ASVDGS",
+            "Files": [
+                {
+                    "FileName": "eddm-simwings-ASVDGS.ini"
+                },
+                {
+                    "FileName": "eddm-simwings.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+        {
+            "Version": 4.1,
+            "ChangesURL": "",
+            "Date": "2024-11-14"
+        }
+    ]
+}
