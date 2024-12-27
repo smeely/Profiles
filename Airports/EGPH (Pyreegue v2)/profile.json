@@ -8,10 +8,10 @@
             "ConfigName": "GSX",
             "Files": [
                 {
-                    "Name": "egph-pyreegue-hinshee.ini"
+                    "FileName": "egph-pyreegue-hinshee.ini"
                 },
                 {
-                    "Name": "egph-pyreegue-hinshee.py"
+                    "FileName": "egph-pyreegue-hinshee.py"
                 }
             ]
         }

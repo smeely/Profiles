@@ -8,10 +8,10 @@
             "ConfigName": "GSX",
             "Files": [
                 {
-                    "Name": "lphr-mmsimulations-hinshee.ini"
+                    "FileName": "lphr-mmsimulations-hinshee.ini"
                 },
                 {
-                    "Name": "lphr-mmsimulations-hinshee.py"
+                    "FileName": "lphr-mmsimulations-hinshee.py"
                 }
             ]
         }

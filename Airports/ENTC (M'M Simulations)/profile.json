@@ -8,7 +8,7 @@
             "ConfigName": "GSX",
             "Files": [
                 {
-                    "Name": "entc-mmsimulations-hinshee.ini"
+                    "FileName": "entc-mmsimulations-hinshee.ini"
                 }
             ]
         }

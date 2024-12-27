@@ -8,10 +8,10 @@
             "ConfigName": "GSX",
             "Files": [
                 {
-                    "Name": "kjac-dreamflight-hinshee.ini"
+                    "FileName": "kjac-dreamflight-hinshee.ini"
                 },
                 {
-                    "Name": "kjac-dreamflight-hinshee.py"
+                    "FileName": "kjac-dreamflight-hinshee.py"
                 }
             ]
         }

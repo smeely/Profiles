@@ -13,18 +13,18 @@ def get_profiles_data():
                 with open(profile_path) as f:
                     data = json.load(f)
                     configurations = data.get("Configurations", [])
+                    file_names = set()
                     for config in configurations:
                         for file in config.get("Files", []):
-                            profile_file = os.path.join(root, file["FileName"])
-                            file["FileName"] = os.path.basename(profile_file)
+                            if "FileName" in file:
+                                file_names.add(file["FileName"])
                     profiles_data.append({
                         "Folder": os.path.basename(root),
                         "ProfileICAO": data.get("ProfileICAO", ""),
                         "Scenery": data.get("Scenery", ""),
                         "Creator": data.get("Creator", ""),
                         "Version": data.get("Version", 0),
-                        "Configurations": configurations,
-                        "Changelog": data.get("Changelog", [])
+                        "FileNames": list(file_names)
                     })
     return profiles_data
 

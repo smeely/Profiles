@@ -8,7 +8,7 @@
             "ConfigName": "GSX",
             "Files": [
                 {
-                    "Name": "esmx-flightsim.to-hinshee.ini"
+                    "FileName": "esmx-flightsim.to-hinshee.ini"
                 }
             ]
         }
