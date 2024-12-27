@@ -1,17 +1,56 @@
 {
     "ProfileICAO": "EGNX",
-	"Scenery": "Pyreegue",
+    "Scenery": "Pyreegue",
     "Creator": "Hinshee",
     "Version": 1.6,
-    "Configurations": "GSX",
-    "GSXConfFiles": [
+    "Configurations": [
         {
-            "Name": "egnx-Pyreegue-Hinshee.ini"
-        },
-        {
-            "Name": "egnx-Pyreegue-Hinshee.py"
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "egnx-pyreegue-hinshee.ini"
+                },
+                {
+                    "FileName": "egnx-pyreegue-hinshee.py"
+                }
+            ]
         }
     ],
-    "NoolConfFiles": [],
-    "OtherConfFiles": []
+    "Changelog": [
+        {
+            "Version": 1,
+            "ChangesURL": "",
+            "Date": "2023-07-22"
+        },
+        {
+            "Version": 1.1,
+            "ChangesURL": "",
+            "Date": "2023-07-22"
+        },
+        {
+            "Version": 1.2,
+            "ChangesURL": "",
+            "Date": "2023-07-23"
+        },
+        {
+            "Version": 1.3,
+            "ChangesURL": "",
+            "Date": "2023-07-24"
+        },
+        {
+            "Version": 1.4,
+            "ChangesURL": "",
+            "Date": "2023-09-23"
+        },
+        {
+            "Version": 1.5,
+            "ChangesURL": "",
+            "Date": "2024-04-05"
+        },
+        {
+            "Version": 1.6,
+            "ChangesURL": "",
+            "Date": "2024-08-04"
+        }
+    ]
 }

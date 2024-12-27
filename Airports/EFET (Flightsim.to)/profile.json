@@ -1,14 +1,23 @@
 {
     "ProfileICAO": "EFET",
-	"Scenery": "Flightsim.to",
+    "Scenery": "Flightsim.to",
     "Creator": "Hinshee",
     "Version": 1,
-    "Configurations": "GSX",
-    "GSXConfFiles": [
+    "Configurations": [
         {
-            "Name": "efet-flightsim.to-hinshee.ini"
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "efet-flightsim.to-hinshee.ini"
+                }
+            ]
         }
     ],
-    "NoolConfFiles": [],
-    "OtherConfFiles": []
+    "Changelog": [
+        {
+            "Version": 1,
+            "ChangesURL": "",
+            "Date": "2022-12-08"
+        }
+    ]
 }
