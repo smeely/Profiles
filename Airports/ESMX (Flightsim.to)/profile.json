@@ -1,14 +1,23 @@
 {
     "ProfileICAO": "ESMX",
-	"Scenery": "Flightsim.to",
+    "Scenery": "Flightsim.to",
     "Creator": "Hinshee",
     "Version": 1,
-    "Configurations": "GSX",
-    "GSXConfFiles": [
+    "Configurations": [
         {
-            "Name": "esmx-flightsim.to-hinshee.ini"
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "esmx-flightsim.to-hinshee.ini"
+                }
+            ]
         }
     ],
-    "NoolConfFiles": [],
-    "OtherConfFiles": []
+    "Changelog": [
+        {
+            "Version": 1,
+            "ChangesURL": "",
+			"Date": "2023-02-16"
+        }
+    ]
 }

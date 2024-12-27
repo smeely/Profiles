@@ -1,14 +1,23 @@
 {
     "ProfileICAO": "LGSK",
-	"Scenery": "Orbx",
+    "Scenery": "Orbx",
     "Creator": "Hinshee",
     "Version": 1,
-    "Configurations": "GSX",
-    "GSXConfFiles": [
+    "Configurations": [
         {
-            "Name": "lgsk-orbx-hinshee.ini"
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "lgsk-orbx-hinshee.ini"
+                }
+            ]
         }
     ],
-    "NoolConfFiles": [],
-    "OtherConfFiles": []
+    "Changelog": [
+        {
+            "Version": 1,
+            "ChangesURL": "",
+			"Date": "2022-09-30"
+        }
+    ]
 }

@@ -1,17 +1,31 @@
 {
     "ProfileICAO": "KJAC",
-	"Scenery": "Dreamflight",
+    "Scenery": "Dreamflight",
     "Creator": "Hinshee",
     "Version": 1.1,
-    "Configurations": "GSX",
-    "GSXConfFiles": [
+    "Configurations": [
         {
-            "Name": "kjac-dreamflight-hinshee.ini"
-        },
-		{
-			"Name": "kjac-dreamflight-hinshee.py"
-		}
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "kjac-dreamflight-hinshee.ini"
+                },
+                {
+                    "FileName": "kjac-dreamflight-hinshee.py"
+                }
+            ]
+        }
     ],
-    "NoolConfFiles": [],
-    "OtherConfFiles": []
+    "Changelog": [
+        {
+            "Version": 1.1,
+            "ChangesURL": "",
+			"Date": "2024-08-06"
+        },
+        {
+            "Version": 1,
+            "ChangesURL": "",
+			"Date": "2024-08-02"
+        }
+    ]
 }

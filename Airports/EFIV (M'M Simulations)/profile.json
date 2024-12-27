@@ -1,14 +1,23 @@
 {
     "ProfileICAO": "EFIV",
-	"Scenery": "M'M Simulations",
+    "Scenery": "Flightsim.to",
     "Creator": "Hinshee",
     "Version": 1,
-    "Configurations": "GSX",
-    "GSXConfFiles": [
+    "Configurations": [
         {
-            "Name": "efiv-mmsimulations-hinshee.ini"
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "efiv-mmsimulations-hinshee.ini"
+                }
+            ]
         }
     ],
-    "NoolConfFiles": [],
-    "OtherConfFiles": []
+    "Changelog": [
+        {
+            "Version": 1,
+            "ChangesURL": "",
+            "Date": "2022-11-26"
+        }
+    ]
 }

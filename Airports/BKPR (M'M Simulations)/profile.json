@@ -1,14 +1,28 @@
 {
     "ProfileICAO": "BKPR",
-	"Scenery": "M'M Simulations",
+    "Scenery": "M'M Simulations",
     "Creator": "Hinshee",
     "Version": 1.1,
-    "Configurations": "GSX",
-    "GSXConfFiles": [
+    "Configurations": [
         {
-            "Name": "bkpr-yeurxn.ini"
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "bkpr-yeurxn.ini"
+                }
+            ]
         }
     ],
-    "NoolConfFiles": [],
-    "OtherConfFiles": []
+    "Changelog": [
+        {
+            "Version": 1,
+            "ChangesURL": "",
+            "Date": "2022-10-29"
+        },
+        {
+            "Version": 1.1,
+            "ChangesURL": "",
+            "Date": "2023-03-05"
+        }
+    ]
 }
