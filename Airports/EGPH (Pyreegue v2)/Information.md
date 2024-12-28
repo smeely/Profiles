@@ -1,5 +1,5 @@
 Available from these retailers: 
-- Contrail.shop: [Affiliate Link](https://contrail.shop/dgfmcr) | [Non-Affiliate Link](https://contrail.shop/products/pyreegue-egph-edinburgh-airport-v2-msfs)
+- Contrail.shop: [Affiliate Link](https://contrail.shop/dgfmcr) / [Non-Affiliate Link](https://contrail.shop/products/pyreegue-egph-edinburgh-airport-v2-msfs)
 
 ### Features:
 - Custom Vehicle Positioning on all stands
