@@ -1,5 +1,6 @@
 # -- coding: utf-8 --
 
+version = 4.1
 msfs_mode = 1
 icao = "eddm"
 
