@@ -1,0 +1,37 @@
+{
+    "ProfileICAO": "ENGM",
+    "Scenery": "Aerosoft",
+    "Creator": "JBX Profiles",
+    "Version": "1.5.1",
+    "Configurations": [
+        {
+            "ConfigName": "GSX VDGS",
+            "Files": [
+                {
+                    "FileName": "engm-aerosoft-gsxvdgs.ini"
+                },
+                {
+                    "FileName": "engm-aerosoft.py"
+                }
+            ]
+        },
+        {
+            "ConfigName": "AS VDGS",
+            "Files": [
+                {
+                    "FileName": "engm-aerosoft-asvdgs.ini"
+                },
+                {
+                    "FileName": "engm-aerosoft.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+        {
+            "Version": 1,
+            "ChangesURL": "",
+			"Date": "2024-12-30"
+        }
+    ]
+}
