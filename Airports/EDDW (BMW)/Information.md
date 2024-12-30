@@ -1,7 +1,7 @@
 <!--- Licensed Under: CC BY-NC 4.0 --->
 
 This profile is for Beautiful Model World Bremen EDDW scenery (v2.0.0)
-Available from these retailers: [Contrail.shop](https://contrail.shop/products/pyreegue-egph-edinburgh-airport-v2-msfs?_pos=1&_sid=e1929cbcc&_ss=r)
+
 ## Features:
 - Walkers in the airport terminal (all positions have walkers in the main terminal, positions 7+8 have walkers in Ryanair building)
 - Jetway positions: Custom boarding path through transparent static gangway, no clipping
