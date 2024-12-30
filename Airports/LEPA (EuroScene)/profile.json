@@ -1,0 +1,26 @@
+{
+    "ProfileICAO": "LEPA",
+    "Scenery": "EuroScene",
+    "Creator": "Vee2",
+    "Version": 1.5,
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "lepa-euroscene-vee2.ini"
+                },
+                {
+                    "FileName": "lepa-euroscene-vee2.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+        {
+            "Version": 1.5,
+            "ChangesURL": "",
+			"Date": "2024-11-30"
+        }
+    ]
+}
