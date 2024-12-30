@@ -10,4 +10,4 @@ GSX Hub's dedicated repository for GSX profiles available via the Hub App.
 
 ## Contributing
 
-Want to contribute? Follow our guide on how to add your profile: [Contributing Guide](Docs/Contributing.md)
+Want to contribute? Check out our [Wiki](https://github.com/GSX-Hub/Profiles/wiki) for further details
