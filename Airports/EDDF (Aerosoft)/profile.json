@@ -26,6 +26,7 @@
                 }
             ]
         },
+        {
             "ConfigName": "ASVDGS Full",
             "Files": [
                 {
@@ -49,10 +50,10 @@
         }
     ],
     "Changelog": [
-		{
+        {
             "Version": 1.31,
-            "ChangesURL": "" , 
-			"Date": "2024-12-31"
-        },
+            "ChangesURL": "",
+            "Date": "2024-12-31"
+        }
     ]
 }
