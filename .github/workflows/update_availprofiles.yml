@@ -19,16 +19,15 @@ jobs:
       - name: Install dependencies
         run: pip install jq
 
-      - name: Delete AvailProfiles.json
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git rm AvailProfiles.json
-          git commit -m 'Refresh AvailProfiles.json'
-
       - name: Pull Branch
         run: |
-          git pull --rebase origin update-availprofiles-branch
+          git fetch origin
+          if git rev-parse --verify origin/update-availprofiles-branch; then
+            git pull --rebase origin update-availprofiles-branch
+          else
+            git checkout -b update-availprofiles-branch
+            git push -u origin update-availprofiles-branch
+          fi
 
       - name: Update AvailProfiles.json
         run: python .github/scripts/update_availprofiles.py
