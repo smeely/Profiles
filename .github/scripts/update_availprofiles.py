@@ -23,7 +23,7 @@ def get_profiles_data():
                         "ProfileICAO": data.get("ProfileICAO", ""),
                         "Scenery": data.get("Scenery", ""),
                         "Creator": data.get("Creator", ""),
-                        "Version": data.get("Version", 0),
+                        "Version": str(data.get("Version", "0")),
                         "FileNames": list(file_names)
                     })
     return profiles_data
