@@ -50,6 +50,20 @@
         ]
     },
     {
+        "Folder": "EDDF (Aerosoft)",
+        "ProfileICAO": "EDDF",
+        "Scenery": "Aerosoft",
+        "Creator": "Jk23",
+        "Version": "1.31",
+        "FileNames": [
+            "eddf-aerosoft-jk23.py",
+            "eddf-aerosoft-ASVDGS-full-jk23.ini",
+            "eddf-aerosoft-full-jk23.ini",
+            "eddf-aerosoft-lite-jk23.ini",
+            "eddf-aerosoft-ASVDGS-lite-jk23.ini"
+        ]
+    },
+    {
         "Folder": "EGNX (Pyreegue)",
         "ProfileICAO": "EGNX",
         "Scenery": "Pyreegue",
@@ -97,8 +111,8 @@
         "Creator": "Vee2",
         "Version": "1.5",
         "FileNames": [
-            "lepa-euroscene-vee2.py",
-            "lepa-euroscene-vee2.ini"
+            "lepa-euroscene-vee2.ini",
+            "lepa-euroscene-vee2.py"
         ]
     },
     {
@@ -143,8 +157,8 @@
         "Creator": "CopperNu",
         "Version": "1.1",
         "FileNames": [
-            "ESMS-ORBX-coppernu.py",
             "ESMS-ORBX-coppernu_GSXVDGS.ini",
+            "ESMS-ORBX-coppernu.py",
             "ESMS-ORBX-coppernu_NoolVDGS.ini"
         ]
     },
@@ -155,8 +169,8 @@
         "Creator": "Hinshee",
         "Version": "1",
         "FileNames": [
-            "eddg-mmsimulations-hinshee.py",
-            "eddg-mmsimulations-hinshee.ini"
+            "eddg-mmsimulations-hinshee.ini",
+            "eddg-mmsimulations-hinshee.py"
         ]
     },
     {
@@ -166,8 +180,8 @@
         "Creator": "Hinshee",
         "Version": "1",
         "FileNames": [
-            "lphr-mmsimulations-hinshee.ini",
-            "lphr-mmsimulations-hinshee.py"
+            "lphr-mmsimulations-hinshee.py",
+            "lphr-mmsimulations-hinshee.ini"
         ]
     },
     {
@@ -222,6 +236,18 @@
         "FileNames": [
             "epkk-nereusz.py",
             "epkk-nereusz.ini"
+        ]
+    },
+    {
+        "Folder": "EIDW (MK Studios v2)",
+        "ProfileICAO": "EIDW",
+        "Scenery": "MK Studios v2",
+        "Creator": "SimonTricks, James Robinson",
+        "Version": "1.5.2",
+        "FileNames": [
+            "eidw-mkstudiosv2-simontricks.ini",
+            "eidw-mkstudiosv2-gsxvdgs-simontricks.ini",
+            "eidw-MKStudios.py"
         ]
     },
     {
