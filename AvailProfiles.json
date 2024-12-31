@@ -56,11 +56,11 @@
         "Creator": "Jk23",
         "Version": "1.31",
         "FileNames": [
-            "eddf-aerosoft-ASVDGS-full-jk23.ini",
-            "eddf-aerosoft-full-jk23.ini",
             "eddf-aerosoft-ASVDGS-lite-jk23.ini",
             "eddf-aerosoft-lite-jk23.ini",
-            "eddf-aerosoft-jk23.py"
+            "eddf-aerosoft-jk23.py",
+            "eddf-aerosoft-ASVDGS-full-jk23.ini",
+            "eddf-aerosoft-full-jk23.ini"
         ]
     },
     {
@@ -111,8 +111,8 @@
         "Creator": "Vee2",
         "Version": "1.5",
         "FileNames": [
-            "lepa-euroscene-vee2.ini",
-            "lepa-euroscene-vee2.py"
+            "lepa-euroscene-vee2.py",
+            "lepa-euroscene-vee2.ini"
         ]
     },
     {
@@ -122,8 +122,8 @@
         "Creator": "CopperNu",
         "Version": "1.2",
         "FileNames": [
-            "EDDW-BMW-coppernu.py",
-            "EDDW-BMW-coppernu.ini"
+            "EDDW-BMW-coppernu.ini",
+            "EDDW-BMW-coppernu.py"
         ]
     },
     {
@@ -133,9 +133,9 @@
         "Creator": "JBX Profiles",
         "Version": "1.5.1",
         "FileNames": [
+            "engm-aerosoft-gsxvdgs.ini",
             "engm-aerosoft.py",
-            "engm-aerosoft-asvdgs.ini",
-            "engm-aerosoft-gsxvdgs.ini"
+            "engm-aerosoft-asvdgs.ini"
         ]
     },
     {
@@ -145,9 +145,9 @@
         "Creator": "SimonTricks",
         "Version": "4.1",
         "FileNames": [
-            "eddm-simwings.ini",
+            "eddm-simwings-ASVDGS.ini",
             "eddm-simwings.py",
-            "eddm-simwings-ASVDGS.ini"
+            "eddm-simwings.ini"
         ]
     },
     {
@@ -157,8 +157,8 @@
         "Creator": "CopperNu",
         "Version": "1.1",
         "FileNames": [
-            "ESMS-ORBX-coppernu_GSXVDGS.ini",
             "ESMS-ORBX-coppernu_NoolVDGS.ini",
+            "ESMS-ORBX-coppernu_GSXVDGS.ini",
             "ESMS-ORBX-coppernu.py"
         ]
     },
@@ -212,8 +212,8 @@
         "Creator": "Hinshee",
         "Version": "1.1",
         "FileNames": [
-            "kjac-dreamflight-hinshee.py",
-            "kjac-dreamflight-hinshee.ini"
+            "kjac-dreamflight-hinshee.ini",
+            "kjac-dreamflight-hinshee.py"
         ]
     },
     {
@@ -223,8 +223,8 @@
         "Creator": "Hinshee",
         "Version": "1",
         "FileNames": [
-            "efou-mmsimulations-hinshee.py",
-            "efou-mmsimulations-hinshee.ini"
+            "efou-mmsimulations-hinshee.ini",
+            "efou-mmsimulations-hinshee.py"
         ]
     },
     {
@@ -234,8 +234,8 @@
         "Creator": "nereusz",
         "Version": "0.8",
         "FileNames": [
-            "epkk-nereusz.py",
-            "epkk-nereusz.ini"
+            "epkk-nereusz.ini",
+            "epkk-nereusz.py"
         ]
     },
     {
