@@ -19,6 +19,10 @@ jobs:
       - name: Install dependencies
         run: pip install jq
 
+      - name: Delete AvailProfiles.json
+        run: |
+          git rm AvailProfiles.json
+
       - name: Pull Branch
         run: |
           git pull --rebase origin update-availprofiles-branch
