@@ -26,11 +26,11 @@
         "Creator": "Jk23",
         "Version": "1.31",
         "FileNames": [
-            "eddf-aerosoft-full-jk23.ini",
-            "eddf-aerosoft-ASVDGS-lite-jk23.ini",
             "eddf-aerosoft-ASVDGS-full-jk23.ini",
+            "eddf-aerosoft-ASVDGS-lite-jk23.ini",
+            "eddf-aerosoft-full-jk23.ini",
             "eddf-aerosoft-lite-jk23.ini",
-            "eddf-aerosoft-jk23.py"
+            "eddf-Aerosoft.py"
         ]
     },
     {
@@ -40,8 +40,8 @@
         "Creator": "Hinshee",
         "Version": "1",
         "FileNames": [
-            "eddg-mmsimulations-hinshee.py",
-            "eddg-mmsimulations-hinshee.ini"
+            "eddg-mmsimulations-hinshee.ini",
+            "eddg-mmsimulations-hinshee.py"
         ]
     },
     {
@@ -63,8 +63,8 @@
         "Version": "4.1",
         "FileNames": [
             "eddm-simwings-ASVDGS.ini",
-            "eddm-simwings.py",
-            "eddm-simwings.ini"
+            "eddm-simwings.ini",
+            "eddm-simwings.py"
         ]
     },
     {
@@ -74,8 +74,8 @@
         "Creator": "CopperNu",
         "Version": "1.2",
         "FileNames": [
-            "EDDW-BMW-coppernu.py",
-            "EDDW-BMW-coppernu.ini"
+            "EDDW-BMW-coppernu.ini",
+            "EDDW-BMW-coppernu.py"
         ]
     },
     {
@@ -105,8 +105,8 @@
         "Creator": "Hinshee",
         "Version": "1",
         "FileNames": [
-            "efou-mmsimulations-hinshee.py",
-            "efou-mmsimulations-hinshee.ini"
+            "efou-mmsimulations-hinshee.ini",
+            "efou-mmsimulations-hinshee.py"
         ]
     },
     {
@@ -126,8 +126,8 @@
         "Creator": "Hinshee",
         "Version": "1.6",
         "FileNames": [
-            "egnx-pyreegue-hinshee.py",
-            "egnx-pyreegue-hinshee.ini"
+            "egnx-pyreegue-hinshee.ini",
+            "egnx-pyreegue-hinshee.py"
         ]
     },
     {
@@ -149,8 +149,8 @@
         "Version": "1.5.2",
         "FileNames": [
             "eidw-MKStudios.py",
-            "eidw-mkstudiosv2-simontricks.ini",
-            "eidw-mkstudiosv2-gsxvdgs-simontricks.ini"
+            "eidw-mkstudiosv2-gsxvdgs-simontricks.ini",
+            "eidw-mkstudiosv2-simontricks.ini"
         ]
     },
     {
@@ -160,8 +160,8 @@
         "Creator": "JBX Profiles",
         "Version": "1.5.1",
         "FileNames": [
-            "engm-aerosoft-gsxvdgs.ini",
             "engm-aerosoft-asvdgs.ini",
+            "engm-aerosoft-gsxvdgs.ini",
             "engm-aerosoft.py"
         ]
     },
@@ -195,8 +195,8 @@
         "Version": "1.1",
         "FileNames": [
             "ESMS-ORBX-coppernu.py",
-            "ESMS-ORBX-coppernu_NoolVDGS.ini",
-            "ESMS-ORBX-coppernu_GSXVDGS.ini"
+            "ESMS-ORBX-coppernu_GSXVDGS.ini",
+            "ESMS-ORBX-coppernu_NoolVDGS.ini"
         ]
     },
     {
@@ -268,8 +268,8 @@
         "Creator": "Hinshee",
         "Version": "1",
         "FileNames": [
-            "lphr-mmsimulations-hinshee.py",
-            "lphr-mmsimulations-hinshee.ini"
+            "lphr-mmsimulations-hinshee.ini",
+            "lphr-mmsimulations-hinshee.py"
         ]
     }
 ]
