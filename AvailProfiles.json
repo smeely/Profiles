@@ -50,14 +50,28 @@
         ]
     },
     {
+        "Folder": "EDDF (Aerosoft)",
+        "ProfileICAO": "EDDF",
+        "Scenery": "Aerosoft",
+        "Creator": "Jk23",
+        "Version": "1.31",
+        "FileNames": [
+            "eddf-aerosoft-ASVDGS-full-jk23.ini",
+            "eddf-aerosoft-full-jk23.ini",
+            "eddf-aerosoft-ASVDGS-lite-jk23.ini",
+            "eddf-aerosoft-lite-jk23.ini",
+            "eddf-aerosoft-jk23.py"
+        ]
+    },
+    {
         "Folder": "EGNX (Pyreegue)",
         "ProfileICAO": "EGNX",
         "Scenery": "Pyreegue",
         "Creator": "Hinshee",
         "Version": "1.6",
         "FileNames": [
-            "egnx-pyreegue-hinshee.ini",
-            "egnx-pyreegue-hinshee.py"
+            "egnx-pyreegue-hinshee.py",
+            "egnx-pyreegue-hinshee.ini"
         ]
     },
     {
@@ -97,8 +111,8 @@
         "Creator": "Vee2",
         "Version": "1.5",
         "FileNames": [
-            "lepa-euroscene-vee2.py",
-            "lepa-euroscene-vee2.ini"
+            "lepa-euroscene-vee2.ini",
+            "lepa-euroscene-vee2.py"
         ]
     },
     {
@@ -108,8 +122,8 @@
         "Creator": "CopperNu",
         "Version": "1.2",
         "FileNames": [
-            "EDDW-BMW-coppernu.ini",
-            "EDDW-BMW-coppernu.py"
+            "EDDW-BMW-coppernu.py",
+            "EDDW-BMW-coppernu.ini"
         ]
     },
     {
@@ -119,9 +133,9 @@
         "Creator": "JBX Profiles",
         "Version": "1.5.1",
         "FileNames": [
-            "engm-aerosoft-gsxvdgs.ini",
+            "engm-aerosoft.py",
             "engm-aerosoft-asvdgs.ini",
-            "engm-aerosoft.py"
+            "engm-aerosoft-gsxvdgs.ini"
         ]
     },
     {
@@ -131,9 +145,9 @@
         "Creator": "SimonTricks",
         "Version": "4.1",
         "FileNames": [
+            "eddm-simwings.ini",
             "eddm-simwings.py",
-            "eddm-simwings-ASVDGS.ini",
-            "eddm-simwings.ini"
+            "eddm-simwings-ASVDGS.ini"
         ]
     },
     {
@@ -143,9 +157,9 @@
         "Creator": "CopperNu",
         "Version": "1.1",
         "FileNames": [
-            "ESMS-ORBX-coppernu.py",
             "ESMS-ORBX-coppernu_GSXVDGS.ini",
-            "ESMS-ORBX-coppernu_NoolVDGS.ini"
+            "ESMS-ORBX-coppernu_NoolVDGS.ini",
+            "ESMS-ORBX-coppernu.py"
         ]
     },
     {
@@ -155,8 +169,8 @@
         "Creator": "Hinshee",
         "Version": "1",
         "FileNames": [
-            "eddg-mmsimulations-hinshee.py",
-            "eddg-mmsimulations-hinshee.ini"
+            "eddg-mmsimulations-hinshee.ini",
+            "eddg-mmsimulations-hinshee.py"
         ]
     },
     {
@@ -166,8 +180,8 @@
         "Creator": "Hinshee",
         "Version": "1",
         "FileNames": [
-            "lphr-mmsimulations-hinshee.ini",
-            "lphr-mmsimulations-hinshee.py"
+            "lphr-mmsimulations-hinshee.py",
+            "lphr-mmsimulations-hinshee.ini"
         ]
     },
     {
@@ -198,8 +212,8 @@
         "Creator": "Hinshee",
         "Version": "1.1",
         "FileNames": [
-            "kjac-dreamflight-hinshee.ini",
-            "kjac-dreamflight-hinshee.py"
+            "kjac-dreamflight-hinshee.py",
+            "kjac-dreamflight-hinshee.ini"
         ]
     },
     {
@@ -222,6 +236,18 @@
         "FileNames": [
             "epkk-nereusz.py",
             "epkk-nereusz.ini"
+        ]
+    },
+    {
+        "Folder": "EIDW (MK Studios v2)",
+        "ProfileICAO": "EIDW",
+        "Scenery": "MK Studios v2",
+        "Creator": "SimonTricks, James Robinson",
+        "Version": "1.5.2",
+        "FileNames": [
+            "eidw-mkstudiosv2-simontricks.ini",
+            "eidw-MKStudios.py",
+            "eidw-mkstudiosv2-gsxvdgs-simontricks.ini"
         ]
     },
     {
