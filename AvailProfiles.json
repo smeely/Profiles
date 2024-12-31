@@ -4,7 +4,7 @@
         "ProfileICAO": "EFTU",
         "Scenery": "M'M Simulations",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "eftu-mmsimulations-hinshee.ini"
         ]
@@ -14,7 +14,7 @@
         "ProfileICAO": "EFET",
         "Scenery": "Flightsim.to",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "efet-flightsim.to-hinshee.ini"
         ]
@@ -24,7 +24,7 @@
         "ProfileICAO": "ENTC",
         "Scenery": "M'M Simulations",
         "Creator": "Hinshee",
-        "Version": 1.2,
+        "Version": "1.2",
         "FileNames": [
             "entc-mmsimulations-hinshee.ini"
         ]
@@ -34,7 +34,7 @@
         "ProfileICAO": "BKPR",
         "Scenery": "M'M Simulations",
         "Creator": "Hinshee",
-        "Version": 1.1,
+        "Version": "1.1",
         "FileNames": [
             "bkpr-yeurxn.ini"
         ]
@@ -44,7 +44,7 @@
         "ProfileICAO": "LGSK",
         "Scenery": "Orbx",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "lgsk-orbx-hinshee.ini"
         ]
@@ -54,7 +54,7 @@
         "ProfileICAO": "EGNX",
         "Scenery": "Pyreegue",
         "Creator": "Hinshee",
-        "Version": 1.6,
+        "Version": "1.6",
         "FileNames": [
             "egnx-pyreegue-hinshee.ini",
             "egnx-pyreegue-hinshee.py"
@@ -65,9 +65,19 @@
         "ProfileICAO": "EBLG",
         "Scenery": "M'M Simulations",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "eblg-mmsimulations-hinshee.ini"
+        ]
+    },
+    {
+        "Folder": "LEBB (BMW)",
+        "ProfileICAO": "LEBB",
+        "Scenery": "Beautiful Model World",
+        "Creator": "CopperNu",
+        "Version": "5.1",
+        "FileNames": [
+            "LEBB-BMW-coppernu.ini"
         ]
     },
     {
@@ -75,7 +85,7 @@
         "ProfileICAO": "LIPK",
         "Scenery": "AmSim",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "lipk-amsim-hinshee.ini"
         ]
@@ -85,10 +95,33 @@
         "ProfileICAO": "LEPA",
         "Scenery": "EuroScene",
         "Creator": "Vee2",
-        "Version": 1.5,
+        "Version": "1.5",
         "FileNames": [
             "lepa-euroscene-vee2.py",
             "lepa-euroscene-vee2.ini"
+        ]
+    },
+    {
+        "Folder": "EDDW (BMW)",
+        "ProfileICAO": "EDDW",
+        "Scenery": "Beautiful Model World",
+        "Creator": "CopperNu",
+        "Version": "1.2",
+        "FileNames": [
+            "EDDW-BMW-coppernu.ini",
+            "EDDW-BMW-coppernu.py"
+        ]
+    },
+    {
+        "Folder": "ENGM (Aerosoft)",
+        "ProfileICAO": "ENGM",
+        "Scenery": "Aerosoft",
+        "Creator": "JBX Profiles",
+        "Version": "1.5.1",
+        "FileNames": [
+            "engm-aerosoft-gsxvdgs.ini",
+            "engm-aerosoft-asvdgs.ini",
+            "engm-aerosoft.py"
         ]
     },
     {
@@ -96,11 +129,23 @@
         "ProfileICAO": "EDDM",
         "Scenery": "Aerosoft (Simwings)",
         "Creator": "SimonTricks",
-        "Version": 4.1,
+        "Version": "4.1",
         "FileNames": [
+            "eddm-simwings.py",
             "eddm-simwings-ASVDGS.ini",
-            "eddm-simwings.ini",
-            "eddm-simwings.py"
+            "eddm-simwings.ini"
+        ]
+    },
+    {
+        "Folder": "ESMS (ORBX)",
+        "ProfileICAO": "ESMS",
+        "Scenery": "ORBX",
+        "Creator": "CopperNu",
+        "Version": "1.1",
+        "FileNames": [
+            "ESMS-ORBX-coppernu.py",
+            "ESMS-ORBX-coppernu_GSXVDGS.ini",
+            "ESMS-ORBX-coppernu_NoolVDGS.ini"
         ]
     },
     {
@@ -108,7 +153,7 @@
         "ProfileICAO": "EDDG",
         "Scenery": "M'M Simulations",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "eddg-mmsimulations-hinshee.py",
             "eddg-mmsimulations-hinshee.ini"
@@ -119,10 +164,10 @@
         "ProfileICAO": "LPHR",
         "Scenery": "M'M Simulations",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
-            "lphr-mmsimulations-hinshee.py",
-            "lphr-mmsimulations-hinshee.ini"
+            "lphr-mmsimulations-hinshee.ini",
+            "lphr-mmsimulations-hinshee.py"
         ]
     },
     {
@@ -130,7 +175,7 @@
         "ProfileICAO": "ESMX",
         "Scenery": "Flightsim.to",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "esmx-flightsim.to-hinshee.ini"
         ]
@@ -140,10 +185,10 @@
         "ProfileICAO": "EGPH",
         "Scenery": "Pyreegue (v2)",
         "Creator": "Hinshee",
-        "Version": 1.1,
+        "Version": "1.1",
         "FileNames": [
-            "egph-pyreegue-hinshee.ini",
-            "egph-pyreegue-hinshee.py"
+            "egph-pyreegue-hinshee.py",
+            "egph-pyreegue-hinshee.ini"
         ]
     },
     {
@@ -151,10 +196,10 @@
         "ProfileICAO": "KJAC",
         "Scenery": "Dreamflight",
         "Creator": "Hinshee",
-        "Version": 1.1,
+        "Version": "1.1",
         "FileNames": [
-            "kjac-dreamflight-hinshee.py",
-            "kjac-dreamflight-hinshee.ini"
+            "kjac-dreamflight-hinshee.ini",
+            "kjac-dreamflight-hinshee.py"
         ]
     },
     {
@@ -162,10 +207,21 @@
         "ProfileICAO": "EFOU",
         "Scenery": "M'M Simulations",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
-            "efou-mmsimulations-hinshee.ini",
-            "efou-mmsimulations-hinshee.py"
+            "efou-mmsimulations-hinshee.py",
+            "efou-mmsimulations-hinshee.ini"
+        ]
+    },
+    {
+        "Folder": "EPKK (nereusz)",
+        "ProfileICAO": "EPKK",
+        "Scenery": "nereusz",
+        "Creator": "nereusz",
+        "Version": "0.8",
+        "FileNames": [
+            "epkk-nereusz.py",
+            "epkk-nereusz.ini"
         ]
     },
     {
@@ -173,7 +229,7 @@
         "ProfileICAO": "EFIV",
         "Scenery": "Flightsim.to",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "efiv-mmsimulations-hinshee.ini"
         ]
