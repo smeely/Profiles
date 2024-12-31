@@ -1,14 +1,13 @@
 <!--- Licensed Under: CC BY-NC 4.0 --->
 
 Available from these retailers: 
-- Contrail.shop: [Affiliate Link](https://contrail.shop/qf9y2n) / [Non-Affiliate Link](https://contrail.shop/products/entc-tromso-airport)
-- Orbx: [Link](https://orbxdirect.com/product/mmsimulations-entc-msfs)
-- simMarket: [Link](https://secure.simmarket.com/mm-simulations-entc-troms-airport-msfs.phtml)
-- flightsim.to: [Link](https://flightsim.to/product/entc-troms-airport)
+- Contrail.shop: [Affiliate Link](https://contrail.shop/xoiedo) / [Non-Affiliate Link](https://contrail.shop/products/mm-simulations-efou-oulu-airport-msfs)
+- Orbx: [Link](https://orbxdirect.com/product/mmsimulations-efou-msfs)
+- simMarket: [Link](https://secure.simmarket.com/mm-simulations-efou-oulu-airport.phtml)
+- flightsim.to: [Link](https://flightsim.to/product/efou-oulu-airport)
 
 ### Features:
-- Custom Vehicle Positioning on all stands
-- Walk-in gates on stands 24 and 25
-- Pushback positions for all stands created (Straight Pushbacks)
-- GSX VDGS Implemented
+- Custom Vehicle Positioning
+- Walk-in gates (Stands 13B, 12A, 11, 10, 9)
+- Custom Pushbacks
 - Accurate Ground Handling Agents
