@@ -1,0 +1,37 @@
+{
+    "ProfileICAO": "LIRF",
+    "Scenery": "MKStudios",
+    "Creator": "SimonTricks",
+    "Version": "1.2.2",
+    "Configurations": [
+        {
+            "ConfigName": "GSX VDGS",
+            "Files": [
+                {
+                    "FileName": "lirf-MkStudio-GSXVDGS.ini"
+                },
+                {
+                    "FileName": "lirf-MkStudio.py"
+                }
+            ]
+        },
+        {
+            "ConfigName": "Nool VDGS",
+            "Files": [
+                {
+                    "FileName": "lirf-MkStudio-NoolVDGS.ini"
+                },
+                {
+                    "FileName": "lirf-MkStudio.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+		{
+            "Version": "1.2.2",
+            "ChangesURL": "",
+			"Date": "2024-05-25"
+        }
+    ]
+}
