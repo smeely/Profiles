@@ -1,0 +1,37 @@
+{
+    "ProfileICAO": "EIDW",
+    "Scenery": "MK Studios v2",
+    "Creator": "SimonTricks, James Robinson",
+    "Version": "1.5.2",
+    "Configurations": [
+        {
+            "ConfigName": "GSX VDGS",
+            "Files": [
+                {
+                    "FileName": "eidw-mkstudiosv2-gsxvdgs-simontricks.ini"
+                },
+                {
+                    "FileName": "eidw-MKStudios.py"
+                }
+            ]
+        },
+        {
+            "ConfigName": "No GSX VDGS",
+            "Files": [
+                {
+                    "FileName": "eidw-mkstudiosv2-simontricks.ini"
+                },
+                {
+                    "FileName": "eidw-MKStudios.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+		{
+            "Version": "1.5.2",
+            "ChangesURL": "",
+			"Date": "2024-09-05"
+        }
+    ]
+}
