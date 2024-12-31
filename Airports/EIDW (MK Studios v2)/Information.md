@@ -1,3 +1,4 @@
+<!--- Licensed Under: CC BY-NC 4.0 --->
 This is my GSX-Profile for MK-Studios EIDW V2
 This Profile is mostly complete. The only thing missing is the West and GA Apron. Apart from that, every stand is finished. 
 
