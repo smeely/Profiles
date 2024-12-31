@@ -26,6 +26,7 @@
         "Creator": "Hinshee",
         "Version": "1.2",
         "FileNames": [
+            "entc-mmsimulations-hinshee.py",
             "entc-mmsimulations-hinshee.ini"
         ]
     },
@@ -47,6 +48,20 @@
         "Version": "1",
         "FileNames": [
             "lgsk-orbx-hinshee.ini"
+        ]
+    },
+    {
+        "Folder": "EDDF (Aerosoft)",
+        "ProfileICAO": "EDDF",
+        "Scenery": "Aerosoft",
+        "Creator": "Jk23",
+        "Version": "1.31",
+        "FileNames": [
+            "eddf-aerosoft-lite-jk23.ini",
+            "eddf-aerosoft-ASVDGS-full-jk23.ini",
+            "eddf-aerosoft-ASVDGS-lite-jk23.ini",
+            "eddf-aerosoft-full-jk23.ini",
+            "eddf-aerosoft-jk23.py"
         ]
     },
     {
@@ -97,8 +112,8 @@
         "Creator": "Vee2",
         "Version": "1.5",
         "FileNames": [
-            "lepa-euroscene-vee2.py",
-            "lepa-euroscene-vee2.ini"
+            "lepa-euroscene-vee2.ini",
+            "lepa-euroscene-vee2.py"
         ]
     },
     {
@@ -120,8 +135,8 @@
         "Version": "1.5.1",
         "FileNames": [
             "engm-aerosoft-gsxvdgs.ini",
-            "engm-aerosoft-asvdgs.ini",
-            "engm-aerosoft.py"
+            "engm-aerosoft.py",
+            "engm-aerosoft-asvdgs.ini"
         ]
     },
     {
@@ -143,9 +158,9 @@
         "Creator": "CopperNu",
         "Version": "1.1",
         "FileNames": [
-            "ESMS-ORBX-coppernu.py",
             "ESMS-ORBX-coppernu_GSXVDGS.ini",
-            "ESMS-ORBX-coppernu_NoolVDGS.ini"
+            "ESMS-ORBX-coppernu_NoolVDGS.ini",
+            "ESMS-ORBX-coppernu.py"
         ]
     },
     {
@@ -166,8 +181,8 @@
         "Creator": "Hinshee",
         "Version": "1",
         "FileNames": [
-            "lphr-mmsimulations-hinshee.ini",
-            "lphr-mmsimulations-hinshee.py"
+            "lphr-mmsimulations-hinshee.py",
+            "lphr-mmsimulations-hinshee.ini"
         ]
     },
     {
@@ -187,8 +202,8 @@
         "Creator": "Hinshee",
         "Version": "1.1",
         "FileNames": [
-            "egph-pyreegue-hinshee.py",
-            "egph-pyreegue-hinshee.ini"
+            "egph-pyreegue-hinshee.ini",
+            "egph-pyreegue-hinshee.py"
         ]
     },
     {
@@ -209,8 +224,8 @@
         "Creator": "Hinshee",
         "Version": "1",
         "FileNames": [
-            "efou-mmsimulations-hinshee.py",
-            "efou-mmsimulations-hinshee.ini"
+            "efou-mmsimulations-hinshee.ini",
+            "efou-mmsimulations-hinshee.py"
         ]
     },
     {
