@@ -26,7 +26,6 @@
         "Creator": "Hinshee",
         "Version": "1.2",
         "FileNames": [
-            "entc-mmsimulations-hinshee.py",
             "entc-mmsimulations-hinshee.ini"
         ]
     },
@@ -57,11 +56,11 @@
         "Creator": "Jk23",
         "Version": "1.31",
         "FileNames": [
-            "eddf-aerosoft-lite-jk23.ini",
+            "eddf-aerosoft-jk23.py",
             "eddf-aerosoft-ASVDGS-full-jk23.ini",
-            "eddf-aerosoft-ASVDGS-lite-jk23.ini",
             "eddf-aerosoft-full-jk23.ini",
-            "eddf-aerosoft-jk23.py"
+            "eddf-aerosoft-lite-jk23.ini",
+            "eddf-aerosoft-ASVDGS-lite-jk23.ini"
         ]
     },
     {
@@ -135,8 +134,8 @@
         "Version": "1.5.1",
         "FileNames": [
             "engm-aerosoft-gsxvdgs.ini",
-            "engm-aerosoft.py",
-            "engm-aerosoft-asvdgs.ini"
+            "engm-aerosoft-asvdgs.ini",
+            "engm-aerosoft.py"
         ]
     },
     {
@@ -159,8 +158,8 @@
         "Version": "1.1",
         "FileNames": [
             "ESMS-ORBX-coppernu_GSXVDGS.ini",
-            "ESMS-ORBX-coppernu_NoolVDGS.ini",
-            "ESMS-ORBX-coppernu.py"
+            "ESMS-ORBX-coppernu.py",
+            "ESMS-ORBX-coppernu_NoolVDGS.ini"
         ]
     },
     {
@@ -170,8 +169,8 @@
         "Creator": "Hinshee",
         "Version": "1",
         "FileNames": [
-            "eddg-mmsimulations-hinshee.py",
-            "eddg-mmsimulations-hinshee.ini"
+            "eddg-mmsimulations-hinshee.ini",
+            "eddg-mmsimulations-hinshee.py"
         ]
     },
     {
@@ -202,8 +201,8 @@
         "Creator": "Hinshee",
         "Version": "1.1",
         "FileNames": [
-            "egph-pyreegue-hinshee.ini",
-            "egph-pyreegue-hinshee.py"
+            "egph-pyreegue-hinshee.py",
+            "egph-pyreegue-hinshee.ini"
         ]
     },
     {
@@ -224,8 +223,8 @@
         "Creator": "Hinshee",
         "Version": "1",
         "FileNames": [
-            "efou-mmsimulations-hinshee.ini",
-            "efou-mmsimulations-hinshee.py"
+            "efou-mmsimulations-hinshee.py",
+            "efou-mmsimulations-hinshee.ini"
         ]
     },
     {
@@ -237,6 +236,18 @@
         "FileNames": [
             "epkk-nereusz.py",
             "epkk-nereusz.ini"
+        ]
+    },
+    {
+        "Folder": "EIDW (MK Studios v2)",
+        "ProfileICAO": "EIDW",
+        "Scenery": "MK Studios v2",
+        "Creator": "SimonTricks, James Robinson",
+        "Version": "1.5.2",
+        "FileNames": [
+            "eidw-mkstudiosv2-simontricks.ini",
+            "eidw-mkstudiosv2-gsxvdgs-simontricks.ini",
+            "eidw-MKStudios.py"
         ]
     },
     {
