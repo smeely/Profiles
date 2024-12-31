@@ -1,5 +1,6 @@
 # -- coding: utf-8 --
 
+version = "1.5.2"
 msfs_mode = 1
 icao = "eidw"
 
