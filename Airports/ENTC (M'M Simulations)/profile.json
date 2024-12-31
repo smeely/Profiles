@@ -9,6 +9,9 @@
             "Files": [
                 {
                     "FileName": "entc-mmsimulations-hinshee.ini"
+                },
+				{
+                    "FileName": "entc-mmsimulations-hinshee.py"
                 }
             ]
         }
@@ -16,7 +19,7 @@
     "Changelog": [
         {
             "Version": 1.2,
-            "ChangesURL": "",
+            "ChangesURL": "https://github.com/Hinshee/GSX-Profiles/pull/26",
 			"Date": "2024-12-22"
         },
 		{
