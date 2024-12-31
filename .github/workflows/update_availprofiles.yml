@@ -23,8 +23,8 @@ jobs:
         run: |
           git fetch origin
           if git rev-parse --verify origin/update-availprofiles-branch; then
-            git rebase --abort || true
-            git pull --rebase origin update-availprofiles-branch || git rebase --abort
+            git checkout update-availprofiles-branch
+            git pull --rebase origin update-availprofiles-branch
           else
             git checkout -b update-availprofiles-branch
             git push -u origin update-availprofiles-branch
