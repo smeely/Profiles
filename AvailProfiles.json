@@ -50,14 +50,28 @@
         ]
     },
     {
+        "Folder": "EDDF (Aerosoft)",
+        "ProfileICAO": "EDDF",
+        "Scenery": "Aerosoft",
+        "Creator": "Jk23",
+        "Version": "1.31",
+        "FileNames": [
+            "eddf-aerosoft-ASVDGS-lite-jk23.ini",
+            "eddf-aerosoft-ASVDGS-full-jk23.ini",
+            "eddf-aerosoft-jk23.py",
+            "eddf-aerosoft-lite-jk23.ini",
+            "eddf-aerosoft-full-jk23.ini"
+        ]
+    },
+    {
         "Folder": "EGNX (Pyreegue)",
         "ProfileICAO": "EGNX",
         "Scenery": "Pyreegue",
         "Creator": "Hinshee",
         "Version": "1.6",
         "FileNames": [
-            "egnx-pyreegue-hinshee.ini",
-            "egnx-pyreegue-hinshee.py"
+            "egnx-pyreegue-hinshee.py",
+            "egnx-pyreegue-hinshee.ini"
         ]
     },
     {
@@ -108,8 +122,8 @@
         "Creator": "CopperNu",
         "Version": "1.2",
         "FileNames": [
-            "EDDW-BMW-coppernu.ini",
-            "EDDW-BMW-coppernu.py"
+            "EDDW-BMW-coppernu.py",
+            "EDDW-BMW-coppernu.ini"
         ]
     },
     {
@@ -120,8 +134,8 @@
         "Version": "1.5.1",
         "FileNames": [
             "engm-aerosoft-gsxvdgs.ini",
-            "engm-aerosoft-asvdgs.ini",
-            "engm-aerosoft.py"
+            "engm-aerosoft.py",
+            "engm-aerosoft-asvdgs.ini"
         ]
     },
     {
@@ -131,9 +145,21 @@
         "Creator": "SimonTricks",
         "Version": "4.1",
         "FileNames": [
+            "eddm-simwings.ini",
             "eddm-simwings.py",
-            "eddm-simwings-ASVDGS.ini",
-            "eddm-simwings.ini"
+            "eddm-simwings-ASVDGS.ini"
+        ]
+    },
+    {
+        "Folder": "LIRK (MK Studios)",
+        "ProfileICAO": "LIRF",
+        "Scenery": "MKStudios",
+        "Creator": "SimonTricks",
+        "Version": "1.2.2",
+        "FileNames": [
+            "lirf-MkStudio-GSXVDGS.ini",
+            "lirf-MkStudio-NoolVDGS.ini",
+            "lirf-MkStudio.py"
         ]
     },
     {
@@ -143,8 +169,8 @@
         "Creator": "CopperNu",
         "Version": "1.1",
         "FileNames": [
-            "ESMS-ORBX-coppernu.py",
             "ESMS-ORBX-coppernu_GSXVDGS.ini",
+            "ESMS-ORBX-coppernu.py",
             "ESMS-ORBX-coppernu_NoolVDGS.ini"
         ]
     },
@@ -166,8 +192,8 @@
         "Creator": "Hinshee",
         "Version": "1",
         "FileNames": [
-            "lphr-mmsimulations-hinshee.ini",
-            "lphr-mmsimulations-hinshee.py"
+            "lphr-mmsimulations-hinshee.py",
+            "lphr-mmsimulations-hinshee.ini"
         ]
     },
     {
@@ -220,8 +246,8 @@
         "Creator": "nereusz",
         "Version": "0.8",
         "FileNames": [
-            "epkk-nereusz.py",
-            "epkk-nereusz.ini"
+            "epkk-nereusz.ini",
+            "epkk-nereusz.py"
         ]
     },
     {
