@@ -22,6 +22,7 @@ jobs:
       - name: Delete AvailProfiles.json
         run: |
           git rm AvailProfiles.json
+          git commit -m 'Refresh AvailProfiles.json'
 
       - name: Pull Branch
         run: |
