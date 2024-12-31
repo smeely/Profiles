@@ -1,0 +1,31 @@
+{
+    "ProfileICAO": "EDDK",
+    "Scenery": "Aerosoft",
+    "Creator": "SimonTricks",
+    "Version": "1.3.3",
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "eddk-aerosoft-gsxvdgs-simontricks.ini"
+                }
+            ]
+        },
+        {
+            "ConfigName": "ASVDGS",
+            "Files": [
+                {
+                    "FileName": "eddk-aerosoft-asvdgs-simontricks.ini"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+		{
+            "Version": "1.3.3",
+            "ChangesURL": "",
+			"Date": "2024-08-29"
+        }
+    ]
+}
