@@ -1,7 +1,12 @@
 name: Update AvailProfiles
 
 on:
-  workflow_dispatch:
+  pull_request_target:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   update-availprofiles:
@@ -10,6 +15,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -21,7 +29,14 @@ jobs:
 
       - name: Pull Branch
         run: |
-          git pull --rebase origin update-availprofiles-branch
+          git fetch origin
+          if git rev-parse --verify origin/update-availprofiles-branch; then
+            git checkout update-availprofiles-branch
+            git pull --rebase origin update-availprofiles-branch
+          else
+            git checkout -b update-availprofiles-branch
+            git push -u origin update-availprofiles-branch
+          fi
 
       - name: Update AvailProfiles.json
         run: python .github/scripts/update_availprofiles.py
@@ -30,7 +45,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git checkout -b update-availprofiles-branch
           git add AvailProfiles.json
           git commit -m 'Update AvailProfiles.json'
         env:
