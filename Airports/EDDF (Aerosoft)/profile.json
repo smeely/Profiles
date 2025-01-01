@@ -11,7 +11,7 @@
                     "FileName": "eddf-aerosoft-full-jk23.ini"
                 },
                 {
-                    "FileName": "eddf-aerosoft-jk23.py"
+                    "FileName": "eddf-aerosoft.py"
                 }
             ]
         },
@@ -22,7 +22,7 @@
                     "FileName": "eddf-aerosoft-lite-jk23.ini"
                 },
                 {
-                    "FileName": "eddf-aerosoft-jk23.py"
+                    "FileName": "eddf-aerosoft.py"
                 }
             ]
         },
@@ -33,7 +33,7 @@
                     "FileName": "eddf-aerosoft-ASVDGS-full-jk23.ini"
                 },
                 {
-                    "FileName": "eddf-aerosoft-jk23.py"
+                    "FileName": "eddf-aerosoft.py"
                 }
             ]
         },
