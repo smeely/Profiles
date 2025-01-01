@@ -4,7 +4,7 @@
         "ProfileICAO": "EFTU",
         "Scenery": "M'M Simulations",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "eftu-mmsimulations-hinshee.ini"
         ]
@@ -14,7 +14,7 @@
         "ProfileICAO": "EFET",
         "Scenery": "Flightsim.to",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "efet-flightsim.to-hinshee.ini"
         ]
@@ -24,7 +24,7 @@
         "ProfileICAO": "ENTC",
         "Scenery": "M'M Simulations",
         "Creator": "Hinshee",
-        "Version": 1.2,
+        "Version": "1.2",
         "FileNames": [
             "entc-mmsimulations-hinshee.ini"
         ]
@@ -34,7 +34,7 @@
         "ProfileICAO": "BKPR",
         "Scenery": "M'M Simulations",
         "Creator": "Hinshee",
-        "Version": 1.1,
+        "Version": "1.1",
         "FileNames": [
             "bkpr-yeurxn.ini"
         ]
@@ -44,7 +44,7 @@
         "ProfileICAO": "LGSK",
         "Scenery": "Orbx",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "lgsk-orbx-hinshee.ini"
         ]
@@ -54,7 +54,7 @@
         "ProfileICAO": "EGNX",
         "Scenery": "Pyreegue",
         "Creator": "Hinshee",
-        "Version": 1.6,
+        "Version": "1.6",
         "FileNames": [
             "egnx-pyreegue-hinshee.ini",
             "egnx-pyreegue-hinshee.py"
@@ -65,7 +65,7 @@
         "ProfileICAO": "EBLG",
         "Scenery": "M'M Simulations",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "eblg-mmsimulations-hinshee.ini"
         ]
@@ -75,7 +75,7 @@
         "ProfileICAO": "LIPK",
         "Scenery": "AmSim",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "lipk-amsim-hinshee.ini"
         ]
@@ -85,7 +85,7 @@
         "ProfileICAO": "LEPA",
         "Scenery": "EuroScene",
         "Creator": "Vee2",
-        "Version": 1.5,
+        "Version": "1.5",
         "FileNames": [
             "lepa-euroscene-vee2.py",
             "lepa-euroscene-vee2.ini"
@@ -108,7 +108,7 @@
         "ProfileICAO": "EDDM",
         "Scenery": "Aerosoft (Simwings)",
         "Creator": "SimonTricks",
-        "Version": 4.1,
+        "Version": "4.1",
         "FileNames": [
             "eddm-simwings.py",
             "eddm-simwings.ini",
@@ -120,7 +120,7 @@
         "ProfileICAO": "EDDG",
         "Scenery": "M'M Simulations",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "eddg-mmsimulations-hinshee.py",
             "eddg-mmsimulations-hinshee.ini"
@@ -131,7 +131,7 @@
         "ProfileICAO": "LPHR",
         "Scenery": "M'M Simulations",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "lphr-mmsimulations-hinshee.ini",
             "lphr-mmsimulations-hinshee.py"
@@ -142,7 +142,7 @@
         "ProfileICAO": "ESMX",
         "Scenery": "Flightsim.to",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "esmx-flightsim.to-hinshee.ini"
         ]
@@ -152,7 +152,7 @@
         "ProfileICAO": "EGPH",
         "Scenery": "Pyreegue (v2)",
         "Creator": "Hinshee",
-        "Version": 1.1,
+        "Version": "1.1",
         "FileNames": [
             "egph-pyreegue-hinshee.ini",
             "egph-pyreegue-hinshee.py"
@@ -163,7 +163,7 @@
         "ProfileICAO": "KJAC",
         "Scenery": "Dreamflight",
         "Creator": "Hinshee",
-        "Version": 1.1,
+        "Version": "1.1",
         "FileNames": [
             "kjac-dreamflight-hinshee.py",
             "kjac-dreamflight-hinshee.ini"
@@ -174,7 +174,7 @@
         "ProfileICAO": "EFOU",
         "Scenery": "M'M Simulations",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "efou-mmsimulations-hinshee.ini",
             "efou-mmsimulations-hinshee.py"
@@ -185,7 +185,7 @@
         "ProfileICAO": "EFIV",
         "Scenery": "Flightsim.to",
         "Creator": "Hinshee",
-        "Version": 1,
+        "Version": "1",
         "FileNames": [
             "efiv-mmsimulations-hinshee.ini"
         ]
