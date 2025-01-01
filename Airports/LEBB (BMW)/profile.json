@@ -1,0 +1,23 @@
+{
+    "ProfileICAO": "LEBB",
+    "Scenery": "Beautiful Model World",
+    "Creator": "CopperNu",
+    "Version": 5.1,
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "LEBB-BMW-coppernu.ini"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+		{
+            "Version": 5.1,
+            "ChangesURL": "",
+			"Date": "2024-03-03"
+        }
+    ]
+}

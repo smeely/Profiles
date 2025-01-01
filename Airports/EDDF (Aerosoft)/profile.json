@@ -1,0 +1,59 @@
+{
+    "ProfileICAO": "EDDF",
+    "Scenery": "Aerosoft",
+    "Creator": "Jk23",
+    "Version": 1.31,
+    "Configurations": [
+        {
+            "ConfigName": "GSX Full",
+            "Files": [
+                {
+                    "FileName": "eddf-aerosoft-full-jk23.ini"
+                },
+                {
+                    "FileName": "eddf-aerosoft.py"
+                }
+            ]
+        },
+        {
+            "ConfigName": "GSX Lite",
+            "Files": [
+                {
+                    "FileName": "eddf-aerosoft-lite-jk23.ini"
+                },
+                {
+                    "FileName": "eddf-aerosoft.py"
+                }
+            ]
+        },
+        {
+            "ConfigName": "ASVDGS Full",
+            "Files": [
+                {
+                    "FileName": "eddf-aerosoft-ASVDGS-full-jk23.ini"
+                },
+                {
+                    "FileName": "eddf-aerosoft.py"
+                }
+            ]
+        },
+        {
+            "ConfigName": "ASVDGS Lite",
+            "Files": [
+                {
+                    "FileName": "eddf-aerosoft-ASVDGS-lite-jk23.ini"
+                },
+                {
+                    "FileName": "eddf-aerosoft-jk23.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+        {
+            "Version": 1.31,
+            "ChangesURL": "",
+            "Date": "2024-12-31"
+        }
+    ]
+}
