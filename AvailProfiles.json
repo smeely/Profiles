@@ -84,7 +84,7 @@
             "eddf-aerosoft-ASVDGS-lite-jk23.ini",
             "eddf-aerosoft-full-jk23.ini",
             "eddf-aerosoft-lite-jk23.ini",
-            "eddf-Aerosoft.py"
+            "eddf-aerosoft.py"
         ]
     },
     {
@@ -96,6 +96,17 @@
         "FileNames": [
             "egnx-pyreegue-hinshee.ini",
             "egnx-pyreegue-hinshee.py"
+        ]
+    },
+    {
+        "Folder": "EICK (Microsoft)",
+        "ProfileICAO": "EICK",
+        "Scenery": "Microsoft",
+        "Creator": "Jk23",
+        "Version": "1",
+        "FileNames": [
+            "eick-jk23.py",
+            "eick-jk23.ini"
         ]
     },
     {
