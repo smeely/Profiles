@@ -99,6 +99,17 @@
         ]
     },
     {
+        "Folder": "EICK (Microsoft)",
+        "ProfileICAO": "EICK",
+        "Scenery": "Microsoft",
+        "Creator": "Jk23",
+        "Version": "1",
+        "FileNames": [
+            "eick-jk23.py",
+            "eick-jk23.ini"
+        ]
+    },
+    {
         "Folder": "EBLG (M'M Simulations)",
         "ProfileICAO": "EBLG",
         "Scenery": "M'M Simulations",
