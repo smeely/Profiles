@@ -157,18 +157,6 @@
         "Creator": "JBX Profiles",
         "Version": "1.5.1",
         "FileNames": [
-            "engm-aerosoft-asvdgs.ini",
-            "engm-aerosoft-gsxvdgs.ini",
-            "engm-aerosoft.py"
-        ]
-    },
-    {
-        "Folder": "ENGM (Aerosoft)",
-        "ProfileICAO": "ENGM",
-        "Scenery": "Aerosoft",
-        "Creator": "JBX Profiles",
-        "Version": "1.5.1",
-        "FileNames": [
             "engm-aerosoft.py",
             "engm-aerosoft-asvdgs.ini",
             "engm-aerosoft-gsxvdgs.ini"
