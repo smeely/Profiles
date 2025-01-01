@@ -157,9 +157,9 @@
         "Creator": "JBX Profiles",
         "Version": "1.5.1",
         "FileNames": [
+            "engm-aerosoft.py",
             "engm-aerosoft-asvdgs.ini",
-            "engm-aerosoft-gsxvdgs.ini",
-            "engm-aerosoft.py"
+            "engm-aerosoft-gsxvdgs.ini"
         ]
     },
     {
@@ -169,9 +169,9 @@
         "Creator": "SimonTricks",
         "Version": "4.1",
         "FileNames": [
-            "eddm-simwings-ASVDGS.ini",
+            "eddm-simwings.py",
             "eddm-simwings.ini",
-            "eddm-simwings.py"
+            "eddm-simwings-ASVDGS.ini"
         ]
     },
     {
