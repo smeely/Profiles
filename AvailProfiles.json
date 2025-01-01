@@ -87,8 +87,20 @@
         "Creator": "Vee2",
         "Version": 1.5,
         "FileNames": [
-            "lepa-euroscene-vee2.py",
-            "lepa-euroscene-vee2.ini"
+            "lepa-euroscene-vee2.ini",
+            "lepa-euroscene-vee2.py"
+        ]
+    },
+    {
+        "Folder": "ENGM (Aerosoft)",
+        "ProfileICAO": "ENGM",
+        "Scenery": "Aerosoft",
+        "Creator": "JBX Profiles",
+        "Version": "1.5.1",
+        "FileNames": [
+            "engm-aerosoft-gsxvdgs.ini",
+            "engm-aerosoft.py",
+            "engm-aerosoft-asvdgs.ini"
         ]
     },
     {
@@ -98,9 +110,9 @@
         "Creator": "SimonTricks",
         "Version": 4.1,
         "FileNames": [
-            "eddm-simwings-ASVDGS.ini",
             "eddm-simwings.ini",
-            "eddm-simwings.py"
+            "eddm-simwings.py",
+            "eddm-simwings-ASVDGS.ini"
         ]
     },
     {
@@ -121,8 +133,8 @@
         "Creator": "Hinshee",
         "Version": 1,
         "FileNames": [
-            "lphr-mmsimulations-hinshee.py",
-            "lphr-mmsimulations-hinshee.ini"
+            "lphr-mmsimulations-hinshee.ini",
+            "lphr-mmsimulations-hinshee.py"
         ]
     },
     {
@@ -153,8 +165,8 @@
         "Creator": "Hinshee",
         "Version": 1.1,
         "FileNames": [
-            "kjac-dreamflight-hinshee.py",
-            "kjac-dreamflight-hinshee.ini"
+            "kjac-dreamflight-hinshee.ini",
+            "kjac-dreamflight-hinshee.py"
         ]
     },
     {
