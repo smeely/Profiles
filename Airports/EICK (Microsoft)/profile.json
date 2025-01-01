@@ -1,0 +1,26 @@
+{
+    "ProfileICAO": "EICK",
+    "Scenery": "Microsoft",
+    "Creator": "Jk23",
+    "Version": 1,
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+					{
+                    "FileName": "eick-jk23.ini"
+					},
+					{
+                    "FileName": "eick-jk23.py"
+					}
+				]
+			}
+		],
+    "Changelog": [
+        {
+            "Version": 1,
+            "ChangesURL": "",
+            "Date": "2025-01-01"
+        }
+    ]
+}
