@@ -1,7 +1,7 @@
 <!--- Licensed Under: CC BY-NC-ND 4.0 --->
 GSX profile for Aerosofts's [ENGM Oslo Gardermoen](https://www.aerosoft.com/en/shop/flight/microsoft-flight-simulator/msfs-2020/msfs-sceneries/msfs-europe/4286/aerosoft-mega-airport-oslo-gardermoen) scenery
 
-##Features:
+## Features:
 - Custom separate boarding/deboarding paths to the terminal at all gates with jetways
 - Custom vehicle placement at all gates
 - Custom stop positions based on aircraft type at all gates - based on the offsets from the Aerosoft VDGS file
@@ -16,7 +16,7 @@ GSX profile for Aerosofts's [ENGM Oslo Gardermoen](https://www.aerosoft.com/en/s
 - Gate 189 has been moved to gate 188 to allow for heavy aircraft to park there
 - Gate 47 is disabled as is the case irl
 
-### Recommended addons:
+#### Recommended addons:
 - [GSX Fuel Livery pack Truck+Hydrant Skytanking](https://flightsim.to/file/69177/gsx-fuel-truck-livery-skytanking) by Saurer01
 
 Always use GSX's "reposition at this gate" feature when starting a flight
