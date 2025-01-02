@@ -1,3 +1,4 @@
+<!--- Licensed Under: CC BY-NC 4.0 --->
 Available from these retailers: MSFS Default Airport
 ## Features:
 - Custom passenger walk-in paths
