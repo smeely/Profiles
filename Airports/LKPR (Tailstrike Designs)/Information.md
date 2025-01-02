@@ -1,4 +1,3 @@
-Pyreegue 🐐
 Available from these retailers: [Aerosoft.com](https://www.aerosoft.com/en/shop/flight/microsoft-flight-simulator/msfs-2020/msfs-sceneries/msfs-europe/3408/tailstrike-designs-airport-prague?number=AS15349)
 ## Features:
 - Custom vehicle placement on all stands
