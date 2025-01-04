@@ -1,0 +1,26 @@
+{
+    "ProfileICAO": "EPKK",
+    "Scenery": "nereusz",
+    "Creator": "nereusz",
+    "Version": 0.8,
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "epkk-nereusz.ini"
+                },
+                {
+                    "FileName": "epkk-nereusz.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+        {
+            "Version": 0.8,
+            "ChangesURL": "",
+			"Date": "2024-12-31"
+        }
+    ]
+}

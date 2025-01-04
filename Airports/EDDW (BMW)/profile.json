@@ -1,0 +1,26 @@
+{
+    "ProfileICAO": "EDDW",
+    "Scenery": "Beautiful Model World",
+    "Creator": "CopperNu",
+    "Version": 1.2,
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "EDDW-BMW-coppernu.ini"
+                },
+                {
+                    "FileName": "EDDW-BMW-coppernu.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+		{
+            "Version": 1.2,
+            "ChangesURL": "",
+			"Date": "2024-08-25"
+        }
+    ]
+}

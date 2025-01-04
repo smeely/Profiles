@@ -1,0 +1,37 @@
+{
+    "ProfileICAO": "ESMS",
+    "Scenery": "ORBX",
+    "Creator": "CopperNu",
+    "Version": 1.1,
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "ESMS-ORBX-coppernu_GSXVDGS.ini"
+                },
+                {
+                    "FileName": "ESMS-ORBX-coppernu.py"
+                }
+            ]
+        },
+        {
+            "ConfigName": "Nool VDGS",
+            "Files": [
+                {
+                    "FileName": "ESMS-ORBX-coppernu_NoolVDGS.ini"
+                },
+                {
+                    "FileName": "ESMS-ORBX-coppernu.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+		{
+            "Version": 1.1,
+            "ChangesURL": "",
+			"Date": "2023-08-26"
+        }
+    ]
+}
