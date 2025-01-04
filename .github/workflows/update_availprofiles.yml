@@ -1,11 +1,8 @@
 name: Update AvailProfiles
 
 on:
-  pull_request:
-    branches:
-      - main
-    types:
-      - closed
+  pull_request_review:
+    types: [submitted]
 
 permissions:
   contents: write
@@ -13,11 +10,15 @@ permissions:
 
 jobs:
   update-availprofiles:
+    if: github.event.review.state == 'approved'
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -26,6 +27,13 @@ jobs:
 
       - name: Install dependencies
         run: pip install jq
+
+      - name: Rebase with main
+        run: |
+          git fetch origin main
+          git rebase origin/main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update AvailProfiles.json
         run: python .github/scripts/update_availprofiles.py
@@ -41,6 +49,6 @@ jobs:
 
       - name: Push changes
         run: |
-          git push
+          git push --force-with-lease
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

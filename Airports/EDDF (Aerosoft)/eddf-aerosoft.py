@@ -1,6 +1,6 @@
 # -- coding: utf-8 --
 
-version = 1.31
+version = 1.32
 msfs_mode = 1
 icao = "eddf"
 
@@ -3158,7 +3158,7 @@ def customOffsetF215(aircraftData):
         {
             350 : (table350, 900),
             767 : (table767, 0),
-            777 : (table777, 200),
+            777 : (table777, 0),
             787 : (table787, 0),
         },
         table) )
