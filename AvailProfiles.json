@@ -278,6 +278,19 @@
         ]
     },
     {
+        "Folder": "EPWA (Drzewiecki Design)",
+        "ProfileICAO": "EPWA",
+        "Scenery": "Drzewiecki Design",
+        "Creator": "JBX Profiles",
+        "Version": "1.2.1",
+        "FileNames": [
+            "epwa-drzewiecki-winter.py",
+            "epwa-drzewiecki.py",
+            "epwa-drzewiecki-winter.ini",
+            "epwa-drzewiecki.ini"
+        ]
+    },
+    {
         "Folder": "LKMT (Flying Partners Slovakia)",
         "ProfileICAO": "LKMT",
         "Scenery": "Flying Partners Slovakia",
