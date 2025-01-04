@@ -1,9 +1,11 @@
 name: Update AvailProfiles
 
 on:
-  pull_request_target:
+  pull_request:
     branches:
       - main
+    types:
+      - closed
 
 permissions:
   contents: write

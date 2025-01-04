@@ -43,6 +43,30 @@
         ]
     },
     {
+        "Folder": "LKPD (Flying Partners Slovakia)",
+        "ProfileICAO": "LKPD",
+        "Scenery": "Flying Partners Slovakia",
+        "Creator": "DarrianCZE",
+        "Version": "1.3",
+        "FileNames": [
+            "lkpd-darriancze.py",
+            "lkpd-darriancze.ini"
+        ]
+    },
+    {
+        "Folder": "EGLC (UK2000)",
+        "ProfileICAO": "EGLC",
+        "Scenery": "UK2000",
+        "Creator": "Vee2",
+        "Version": "1.0",
+        "FileNames": [
+            "eglc-uk2000-vee2-146.ini",
+            "eglc-uk2000-vee2.py",
+            "eglc-uk2000-vee2-146.py",
+            "eglc-uk2000-vee2.ini"
+        ]
+    },
+    {
         "Folder": "EDDK (Aerosoft)",
         "ProfileICAO": "EDDK",
         "Scenery": "Aerosoft",
