@@ -1,7 +1,7 @@
 # -- coding: utf-8 --
 msfs_mode = 1
 icao = "lkpd"
-version = 1.2
+version = 1.3
 
 ApronW = CustomizedName("Apron West (Airliners) | Stand #§",1)
 ApronWGA = CustomizedName("Apron West (GA & Bizjets) | Stand #§",2)
