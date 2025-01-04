@@ -32,6 +32,17 @@
         ]
     },
     {
+        "Folder": "LKKV (Asobo)",
+        "ProfileICAO": "LKKV",
+        "Scenery": "Asobo (Default Airport)",
+        "Creator": "DarrianCZE",
+        "Version": "1.1",
+        "FileNames": [
+            "lkkv-darriancze.py",
+            "lkkv-darriancze.ini"
+        ]
+    },
+    {
         "Folder": "LKPD (Flying Partners Slovakia)",
         "ProfileICAO": "LKPD",
         "Scenery": "Flying Partners Slovakia",
