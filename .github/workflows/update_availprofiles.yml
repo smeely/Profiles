@@ -1,11 +1,8 @@
 name: Update AvailProfiles
 
 on:
-  pull_request:
-    branches:
-      - main
-    types:
-      - closed
+  pull_request_review:
+    types: [submitted]
 
 permissions:
   contents: write
@@ -13,7 +10,7 @@ permissions:
 
 jobs:
   update-availprofiles:
-    if: github.event.pull_request.merged == true
+    if: github.event.review.state == 'approved'
     runs-on: ubuntu-latest
 
     steps:
@@ -31,6 +28,13 @@ jobs:
       - name: Install dependencies
         run: pip install jq
 
+      - name: Rebase with main
+        run: |
+          git fetch origin main
+          git rebase origin/main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Update AvailProfiles.json
         run: python .github/scripts/update_availprofiles.py
 
@@ -45,16 +49,6 @@ jobs:
 
       - name: Push changes
         run: |
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/GSX-Hub/Profiles.git
-          git push -u origin update_availprofiles_${{ github.sha }}
+          git push --force-with-lease
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: Update AvailProfiles.json
-          branch: update_availprofiles_${{ github.sha }}
-          title: 'Update AvailProfiles.json'
-          body: 'Automatically generated pull request to update AvailProfiles.json'
