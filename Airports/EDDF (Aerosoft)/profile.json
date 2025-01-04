@@ -2,7 +2,7 @@
     "ProfileICAO": "EDDF",
     "Scenery": "Aerosoft",
     "Creator": "Jk23",
-    "Version": 1.31,
+    "Version": 1.32,
     "Configurations": [
         {
             "ConfigName": "GSX Full",
@@ -50,6 +50,11 @@
         }
     ],
     "Changelog": [
+	    {
+            "Version": 1.32,
+            "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/39",
+            "Date": "2025-01-04"
+        },
         {
             "Version": 1.31,
             "ChangesURL": "",
