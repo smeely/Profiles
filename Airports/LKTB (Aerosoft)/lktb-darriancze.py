@@ -1,7 +1,7 @@
 # -- coding: utf-8 --
 msfs_mode = 1
 icao = "lktb"
-version = 3.0
+version = 3.1
 
 ApronM = CustomizedName("Apron Middle (Airliners) | Stand #§",1)
 ApronW = CustomizedName("Apron West (Cargo and Heavy) | Stand #§",2)
