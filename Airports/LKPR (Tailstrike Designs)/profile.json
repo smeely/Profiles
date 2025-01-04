@@ -8,7 +8,7 @@
             "ConfigName": "GSX-VDGS",
             "Files": [
                 {
-                    "FileName": "lkpr-darriancze-asvdgs.ini"
+                    "FileName": "lkpr-darriancze-gsxvdgs.ini"
                 },
                 {
                     "FileName": "lkpr-darriancze.py"
