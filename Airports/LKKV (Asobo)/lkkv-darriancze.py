@@ -1,7 +1,7 @@
 # -- coding: utf-8 --
 msfs_mode = 1
 icao = "lkkv"
-version = 1.0
+version = 1.1
 
 ApronM = CustomizedName("Apron M (Airliners) | Stand #§",1)
 ApronGA = CustomizedName("General Aviation | Stand #§",2)
