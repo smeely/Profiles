@@ -1,5 +1,5 @@
 # -- coding: utf-8 --
-version = 1.2.0
+version = "1.2.0"
 msfs_mode = 1
 icao = "yssy"
 
