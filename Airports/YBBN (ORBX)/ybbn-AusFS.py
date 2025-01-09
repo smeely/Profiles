@@ -1,6 +1,6 @@
 # -- coding: utf-8 --
 
-version = 1.3.0
+version = "1.3.0"
 msfs_mode = 1
 icao = "ybbn"
 
