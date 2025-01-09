@@ -1,0 +1,31 @@
+{
+    "ProfileICAO": "LEMH",
+    "Scenery": "Simwings",
+    "Creator": "SimonTricks",
+    "Version": "1.4",
+    "Configurations": [
+        {
+            "ConfigName": "GSX VDGS",
+            "Files": [
+                {
+                    "FileName": "lemh-GSXVDGS.ini"
+                }
+			]
+		},
+		{
+			"ConfigName": "AS VDGS",
+            "Files": [
+                {
+                    "FileName": "lemh-ASVDGS.ini"
+                }
+			]
+        }
+    ],
+    "Changelog": [
+		{
+            "Version": "1.4",
+            "ChangesURL": "",
+			"Date": "2023-04-03"
+        }
+    ]
+}
