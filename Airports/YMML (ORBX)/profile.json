@@ -1,0 +1,31 @@
+{
+    "ProfileICAO": "YMML",
+    "Scenery": "ORBX ",
+    "Creator": "tcastest",
+    "Version": 1.1,
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "ymml-AusFS.ini"
+                },
+                {
+                    "FileName": "ymml-AusFS.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+		{
+            "Version": 1.1,
+            "ChangesURL": "",
+			"Date": "2024-11-09"
+        },
+        {
+            "Version": 1,
+            "ChangesURL": "",
+			"Date": "2024-08-10"
+        }
+    ]
+}
