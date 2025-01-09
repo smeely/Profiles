@@ -1,8 +1,9 @@
 name: Update AvailProfiles
 
 on:
-  pull_request_review:
-    types: [submitted]
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -10,15 +11,11 @@ permissions:
 
 jobs:
   update-availprofiles:
-    if: github.event.review.state == 'approved'
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4.2.2
-        with:
-          ref: ${{ github.event.pull_request.head.ref }}
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
 
       - name: Set up Python
         uses: actions/setup-python@v5.3.0
@@ -28,27 +25,19 @@ jobs:
       - name: Install dependencies
         run: pip install jq
 
-      - name: Rebase with main
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git fetch origin main
-          git rebase origin/main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Update AvailProfiles.json
         run: python .github/scripts/update_availprofiles.py
 
-      - name: Commit changes
-        run: |
-          git add AvailProfiles.json
-          git commit -m 'Update AvailProfiles.json'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push changes
-        run: |
-          git push --force-with-lease
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: Update AvailProfiles.json
+          title: Update Available Profiles
+          body: |
+            This PR updates the AvailProfiles.json file.
+          branch: availprofiles
+          base: main
+          reviewers: hinshee
+          assignees: hinshee
+          labels: auto-update
