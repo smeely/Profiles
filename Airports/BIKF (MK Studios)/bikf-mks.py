@@ -1,7 +1,7 @@
 # -- coding: utf-8 --
 # Scenery = MK Studios - BIKF Keflavik
 
-version: "1.3.0"
+version = "1.3.0"
 msfs_mode = 1
 icao = "bikf"
 
