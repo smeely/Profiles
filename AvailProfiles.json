@@ -53,6 +53,16 @@
         ]
     },
     {
+        "Folder": "EFET (Tatu)",
+        "ProfileICAO": "EFET",
+        "Scenery": "Tatu",
+        "Creator": "Hinshee",
+        "Version": "1.0",
+        "FileNames": [
+            "efet-tatu-hinshee.ini"
+        ]
+    },
+    {
         "Folder": "EDDF (Aerosoft)",
         "ProfileICAO": "EDDF",
         "Scenery": "Aerosoft",
@@ -208,16 +218,6 @@
         "FileNames": [
             "lemh-ASVDGS.ini",
             "lemh-GSXVDGS.ini"
-        ]
-    },
-    {
-        "Folder": "EFET (Flightsim.to)",
-        "ProfileICAO": "EFET",
-        "Scenery": "Flightsim.to",
-        "Creator": "Hinshee",
-        "Version": "1",
-        "FileNames": [
-            "efet-flightsim.to-hinshee.ini"
         ]
     },
     {
