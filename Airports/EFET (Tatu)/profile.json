@@ -1,22 +1,23 @@
 {
     "ProfileICAO": "EFET",
-    "Scenery": "Flightsim.to",
+    "Scenery": "Tatu",
     "Creator": "Hinshee",
-    "Version": 1,
+    "Version": "1.0",
     "Configurations": [
         {
             "ConfigName": "GSX",
             "Files": [
                 {
-                    "FileName": "efet-flightsim.to-hinshee.ini"
+                    "FileName": "efet-tatu-hinshee.ini"
                 }
             ]
         }
     ],
     "Changelog": [
         {
-            "Version": 1,
+            "Version": "1.0",
             "ChangesURL": "",
+            "ChangesMd": "* Initial release",
             "Date": "2022-12-08"
         }
     ]
