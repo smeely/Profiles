@@ -1,7 +1,7 @@
 # -- coding: utf-8 --
 msfs_mode = 1
 icao = "lkpr"
-version = 11.0
+version = 12.0
 
 Terminal1 = CustomizedName("Terminal 1 (1 - 16) (Non-Schengen) | Gate #§",1)
 Terminal1JetwayINOP = CustomizedName("Terminal 1 (1 - 16) (Non-Schengen) | Gate #§ (Jetway INOP)",1)
@@ -1833,16 +1833,16 @@ parkings = {
         15 : (ApronSouthTaxiOut, ),
         16 : (ApronSouthTaxiOut, ),
         17 : (ApronSouthTaxiOut, ),
-        "20A" : (ApronSouth, ),
-        20 : (ApronSouth, ),
-        21 : (ApronSouth, ),
-        22 : (ApronSouth, ),
-        "22A" : (ApronSouth, ),
-        "23A" : (ApronSouth, ),
-        23 : (ApronSouth, ),
-        24 : (ApronSouth, ),
-        25 : (ApronSouth, ),
-        "25A" : (ApronSouth, ),
+        "20A" : (ApronSouthTaxiOut, ),
+        20 : (ApronSouthTaxiOut, ),
+        21 : (ApronSouthTaxiOut, ),
+        22 : (ApronSouthTaxiOut, ),
+        "22A" : (ApronSouthTaxiOut, ),
+        "23A" : (ApronSouthTaxiOut, ),
+        23 : (ApronSouthTaxiOut, ),
+        24 : (ApronSouthTaxiOut, ),
+        25 : (ApronSouthTaxiOut, ),
+        "25A" : (ApronSouthTaxiOut, ),
         "26B" : (ApronSouth, ),
         26 : (ApronSouth, ),
         "26A" : (ApronSouth, ),
