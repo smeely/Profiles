@@ -2,7 +2,7 @@
     "ProfileICAO": "EDDF",
     "Scenery": "Aerosoft",
     "Creator": "Jk23",
-    "Version": 1.32,
+    "Version": 1.4,
     "Configurations": [
         {
             "ConfigName": "GSX Full",
@@ -44,15 +44,15 @@
                     "FileName": "eddf-aerosoft-ASVDGS-lite-jk23.ini"
                 },
                 {
-                    "FileName": "eddf-aerosoft-jk23.py"
+                    "FileName": "eddf-aerosoft.py"
                 }
             ]
         }
     ],
     "Changelog": [
 	    {
-            "Version": 1.32,
-            "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/39",
+            "Version": 1.4,
+            "ChangesURL": "",
             "Date": "2025-01-04"
         },
         {

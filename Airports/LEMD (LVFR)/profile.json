@@ -1,0 +1,26 @@
+{
+    "ProfileICAO": "LEMD",
+    "Scenery": "LVFR",
+    "Creator": "SimonTricks",
+    "Version": "1.0",
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "lemd-LVFR.ini"
+                },
+                {
+                    "FileName": "lemd-LVFR.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+		{
+            "Version": "1.0",
+            "ChangesURL": "",
+			"Date": "2024-04-11"
+        }
+    ]
+}

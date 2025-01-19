@@ -1,0 +1,31 @@
+{
+    "ProfileICAO": "YBBN",
+    "Scenery": "ORBX",
+    "Creator": "tcastest",
+    "Version": "1.3.0",
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "ybbn-AusFS.ini"
+                },
+                {
+                    "FileName": "ybbn-AusFS..py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+		{
+            "Version": "1.3.0",
+            "ChangesURL": "",
+			"Date": "2024-11-03"
+        },
+        {
+            "Version": 1,
+            "ChangesURL": "",
+			"Date": "2023-06-28"
+        }
+    ]
+}

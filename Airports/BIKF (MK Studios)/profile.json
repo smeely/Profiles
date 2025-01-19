@@ -1,0 +1,49 @@
+{
+    "ProfileICAO": "BIKF",
+    "Scenery": "MK Studios (V2)",
+    "Creator": "JBX Profiles",
+    "Version": "1.3.0",
+    "Configurations": [
+        {
+            "ConfigName": "GSX VDGS",
+            "Files": [
+                {
+                    "FileName": "bikf-mks-gsxvdgs.ini"
+                },
+                {
+                    "FileName": "bikf-mks.py"
+                },
+                {
+                    "FileName": "birk-mks.ini"
+                },
+                {
+                    "FileName": "birk-mks.py"
+                }
+            ]
+        },
+        {
+            "ConfigName": "Nool VDGS",
+            "Files": [
+                {
+                    "FileName": "bikf-mks-noolvdgs.ini"
+                },
+                {
+                    "FileName": "bikf-mks.py"
+                },
+                {
+                    "FileName": "birk-mks.ini"
+                },
+                {
+                    "FileName": "birk-mks.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+        {
+            "Version": "1.3.0",
+            "ChangesURL": "",
+			"Date": "2025-01-08"
+        }
+    ]
+}
