@@ -25,6 +25,7 @@
         {
             "Version": 1,
             "ChangesURL": "",
+		"ChangesMd": "* Initial release",
 			"Date": "2024-07-19"
         }
     ]
