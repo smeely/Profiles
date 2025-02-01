@@ -1,0 +1,26 @@
+{
+    "ProfileICAO": "FIMP",
+    "Scenery": "FSDG",
+    "Creator": "JBX Profiles",
+    "Version": "2.0.0",
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "fimp-fsdg.ini"
+                },
+                {
+                    "FileName": "fimp-fsdg.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+        {
+            "Version": "2.0.0",
+            "ChangesURL": "",
+			"Date": "2025-02-01"
+        }
+    ]
+}
