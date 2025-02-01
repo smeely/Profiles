@@ -1,9 +1,9 @@
 # -- coding: utf-8 --
-# Version: 1.1.0
 # Scenery = FSDG - FIMP Mauritius
 
 msfs_mode = 1
 icao = "fimp"
+version = "2.0.0"
 
 terminal = CustomizedName("Terminal | Gate #§",1)
 ga_apron = CustomizedName("GA Apron | Parking #§",2)
