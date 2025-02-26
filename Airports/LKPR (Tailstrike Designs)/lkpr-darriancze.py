@@ -1,7 +1,7 @@
 # -- coding: utf-8 --
 msfs_mode = 1
 icao = "lkpr"
-version = 13.0
+version = 13.1
 
 Terminal1 = CustomizedName("Terminal 1 (1 - 16) (Non-Schengen) | Gate #§",1)
 Terminal1JetwayINOP = CustomizedName("Terminal 1 (1 - 16) (Non-Schengen) | Gate #§ (Jetway INOP)",1)
@@ -650,7 +650,7 @@ def Gate14_Offset(aircraftData):
     TableGroup = {
         "ARC-C" : 3.75,
         "ARC-D" : 7.25,
-        "ARC-E" : 11.8,
+        "ARC-E" : 14.5,
         "ARC-F" : 14.5,
     }
 
@@ -751,7 +751,7 @@ def Gate16_Offset(aircraftData):
     }
 
     TableGroup = {
-        "ARC-E" : 8.2,
+        "ARC-E" : 12,
         "ARC-F" : 12,
     }
 
