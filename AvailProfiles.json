@@ -20,9 +20,6 @@
             "engm-aerosoft.py",
             "engm-aerosoft-asvdgs.ini",
             "engm-aerosoft-gsxvdgs.ini"
-        ],
-        "AddonFolders": [
-            "aerosoft-airport-engm-oslo"
         ]
     },
     {
@@ -88,9 +85,6 @@
         "FileNames": [
             "EDDW-BMW-coppernu.ini",
             "EDDW-BMW-coppernu.py"
-        ],
-        "AddonFolders": [
-            "aerosoft-airport-engm-oslo"
         ]
     },
     {
@@ -396,7 +390,7 @@
             "egph-pyreegue-hinshee.py"
         ],
         "AddonFolders": [
-            "aerosoft-airport-engm-oslo"
+            "pyreegue-airport-egph-edinburghv2"
         ]
     },
     {
@@ -410,7 +404,7 @@
             "entc-mmsimulations-hinshee.py"
         ],
         "AddonFolders": [
-            "pyreegue-airport-egph-edinburghv2"
+            "mmsimulations-airport-entc-tromso"
         ]
     },
     {
