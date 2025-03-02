@@ -49,6 +49,9 @@
             "lirf-MkStudio-GSXVDGS.ini",
             "lirf-MkStudio-NoolVDGS.ini",
             "lirf-MkStudio.py"
+        ],
+        "AddonFolders": [
+            "mkstudios-airport-lirf-rome"
         ]
     },
     {
@@ -85,6 +88,9 @@
         "FileNames": [
             "EDDW-BMW-coppernu.ini",
             "EDDW-BMW-coppernu.py"
+        ],
+        "AddonFolders": [
+            "aerosoft-airport-engm-oslo"
         ]
     },
     {
@@ -96,6 +102,9 @@
         "FileNames": [
             "ymml-AusFS.ini",
             "ymml-AusFS.py"
+        ],
+        "AddonFolders": [
+            "orbx-airport-ymml-melbourne"
         ]
     },
     {
@@ -146,6 +155,9 @@
         "Version": "1.1",
         "FileNames": [
             "bkpr-yeurxn.ini"
+        ],
+        "AddonFolders": [
+            "mmsimulations-airport-bkpr-pristina-2024"
         ]
     },
     {
@@ -323,6 +335,9 @@
             "eddm-simwings.py",
             "eddm-simwings.ini",
             "eddm-simwings-ASVDGS.ini"
+        ],
+        "AddonFolders": [
+            "simwings-airport-eddm-munich"
         ]
     },
     {
@@ -365,6 +380,9 @@
         "Version": "1",
         "FileNames": [
             "lgsk-orbx-hinshee.ini"
+        ],
+        "AddonFolders": [
+            "orbx-airport-lgsk-skiathos"
         ]
     },
     {
@@ -376,6 +394,9 @@
         "FileNames": [
             "egph-pyreegue-hinshee.ini",
             "egph-pyreegue-hinshee.py"
+        ],
+        "AddonFolders": [
+            "aerosoft-airport-engm-oslo"
         ]
     },
     {
@@ -387,6 +408,9 @@
         "FileNames": [
             "entc-mmsimulations-hinshee.ini",
             "entc-mmsimulations-hinshee.py"
+        ],
+        "AddonFolders": [
+            "pyreegue-airport-egph-edinburghv2"
         ]
     },
     {
@@ -419,6 +443,9 @@
         "FileNames": [
             "eddk-aerosoft-asvdgs-simontricks.ini",
             "eddk-aerosoft-gsxvdgs-simontricks.ini"
+        ],
+        "AddonFolders": [
+            "aerosoft-airport-eddk-cologne-bonn"
         ]
     },
     {
@@ -430,6 +457,9 @@
         "FileNames": [
             "yssy-AusFS.ini",
             "yssy-AusFS.py"
+        ],
+        "AddonFolders": [
+            "flytampagg-sydney"
         ]
     },
     {
@@ -453,6 +483,9 @@
         "FileNames": [
             "eddg-mmsimulations-hinshee.ini",
             "eddg-mmsimulations-hinshee.py"
+        ],
+        "AddonFolders": [
+            "mmsimulations-eddg-munster-1.0.5"
         ]
     },
     {
@@ -484,6 +517,9 @@
         "FileNames": [
             "ybbn-AusFS.ini",
             "ybbn-AusFS.py"
+        ],
+        "AddonFolders": [
+            "orbx-airport-ybbn-brisbane-international"
         ]
     }
 ]
