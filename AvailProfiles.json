@@ -54,6 +54,9 @@
         "FileNames": [
             "egnx-pyreegue-hinshee.ini",
             "egnx-pyreegue-hinshee.py"
+        ],
+        "AddonFolders": [
+            "pyreegue-airport-egnx-derby"
         ]
     },
     {
