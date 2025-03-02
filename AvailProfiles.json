@@ -20,6 +20,9 @@
             "engm-aerosoft.py",
             "engm-aerosoft-asvdgs.ini",
             "engm-aerosoft-gsxvdgs.ini"
+        ],
+        "AddonFolders": [
+            "aerosoft-airport-engm-oslo"
         ]
     },
     {
@@ -31,6 +34,9 @@
         "FileNames": [
             "kjac-dreamflight-hinshee.ini",
             "kjac-dreamflight-hinshee.py"
+        ],
+        "AddonFolders": [
+            "dreamflight-jacksonhole"
         ]
     },
     {
@@ -101,6 +107,9 @@
         "FileNames": [
             "lepa-euroscene-vee2.ini",
             "lepa-euroscene-vee2.py"
+        ],
+        "AddonFolders": [
+            "euroscene-airport-lepa-palma-de-mallorca"
         ]
     },
     {
@@ -113,6 +122,9 @@
             "eidw-MKStudios.py",
             "eidw-mkstudiosv2-gsxvdgs-simontricks.ini",
             "eidw-mkstudiosv2-simontricks.ini"
+        ],
+        "AddonFolders": [
+            "mkstudios-airport-eidw-dublin"
         ]
     },
     {
@@ -148,6 +160,9 @@
             "eddf-aerosoft-full-jk23.ini",
             "eddf-aerosoft-lite-jk23.ini",
             "eddf-aerosoft.py"
+        ],
+        "AddonFolders": [
+            "aerosoft-airport-eddf-frankfurt"
         ]
     },
     {
