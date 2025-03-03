@@ -20,6 +20,9 @@
             "engm-aerosoft.py",
             "engm-aerosoft-asvdgs.ini",
             "engm-aerosoft-gsxvdgs.ini"
+        ],
+        "AddonFolders": [
+            "aerosoft-airport-engm-oslo"
         ]
     },
     {
