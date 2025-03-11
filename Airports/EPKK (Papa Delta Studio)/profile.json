@@ -1,0 +1,33 @@
+{
+    "ProfileICAO": "EPKK",
+    "Scenery": "Papa Delta Studio",
+    "Creator": "Papa Delta Studio",
+    "Version": 0.9,
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "epkk-papadelta.ini"
+                },
+                {
+                    "FileName": "epkk-papadelta.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+        {
+            "Version": 0.9,
+            "ChangesURL": "",
+            "ChangesMd": "Stand 2R position synced; disabled wing walkers.",
+            "Date": "2025-03-11"
+        },
+        {
+            "Version": 0.8,
+            "ChangesURL": "",
+            "ChangesMd": "* Initial release",
+            "Date": "2024-12-31"
+        }
+    ]
+}
