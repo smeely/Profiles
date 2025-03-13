@@ -319,6 +319,17 @@
         ]
     },
     {
+        "Folder": "BGGH (FSimStudios)",
+        "ProfileICAO": "BGGH",
+        "Scenery": "FSimStudios",
+        "Creator": "JBX Profiles",
+        "Version": "1.0.1",
+        "FileNames": [
+            "bggh-fss.py",
+            "bggh-fss.ini"
+        ]
+    },
+    {
         "Folder": "EFTU (M'M Simulations)",
         "ProfileICAO": "EFTU",
         "Scenery": "M'M Simulations",
@@ -350,6 +361,17 @@
         ]
     },
     {
+        "Folder": "EPKK (Papa Delta Studio)",
+        "ProfileICAO": "EPKK",
+        "Scenery": "Papa Delta Studio",
+        "Creator": "Papa Delta Studio",
+        "Version": "0.9",
+        "FileNames": [
+            "epkk-papadelta.ini",
+            "epkk-papadelta.py"
+        ]
+    },
+    {
         "Folder": "EGPH (Pyreegue v2)",
         "ProfileICAO": "EGPH",
         "Scenery": "Pyreegue (v2)",
@@ -369,17 +391,6 @@
         "FileNames": [
             "entc-mmsimulations-hinshee.ini",
             "entc-mmsimulations-hinshee.py"
-        ]
-    },
-    {
-        "Folder": "EPKK (nereusz)",
-        "ProfileICAO": "EPKK",
-        "Scenery": "nereusz",
-        "Creator": "nereusz",
-        "Version": "0.8",
-        "FileNames": [
-            "epkk-nereusz.ini",
-            "epkk-nereusz.py"
         ]
     },
     {
