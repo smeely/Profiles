@@ -2,7 +2,7 @@
 
 ## Airport compatibility
 
-GSX profile for [EPSC Szczecin - Goleniów by Papa Delta Studio](https://simmarket.com/EPSC).
+GSX profile for [EPSC Szczecin - Goleniów by Papa Delta Studio](https://secure.simmarket.com/papa-delta-studio-epsc-szczecin-goleniw-airport-msfs2024.phtml).
 
 If you have any suggestion how to make the profile more accurate, please let me know.
 
