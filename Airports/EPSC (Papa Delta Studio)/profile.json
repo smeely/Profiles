@@ -1,0 +1,27 @@
+{
+    "ProfileICAO": "EPSC",
+    "Scenery": "Papa Delta Studio",
+    "Creator": "Papa Delta Studio",
+    "Version": 0.9,
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "epsc-papadelta.ini"
+                },
+                {
+                    "FileName": "epsc-papadelta.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+        {
+            "Version": 0.9,
+            "ChangesURL": "",
+            "ChangesMd": "* Initial release",
+			"Date": "2025-03-11"
+        }
+    ]
+}
