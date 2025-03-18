@@ -38,6 +38,6 @@
             "ChangesURL": "",
 			"ChangesMd": "* Disabled Wingwalkers on most positions </br>* Custom Engine Start points in Pushback for most Aprons (Red Line) </br>* Small changes and corrections </br> ##**Update to A380 Compatability** Gates 113X (Apron 1 East) and 318 (Apron 3 Satelite) created via gsx that are only recommended to use with the A380. You may find them at the very end of the gate lists",
             "Date": "2025-02-22"
-        },
+        }
     ]
 }
