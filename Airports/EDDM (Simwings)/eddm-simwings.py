@@ -1,8 +1,8 @@
 # -- coding: utf-8 --
 
-version = 4.1
 msfs_mode = 1
 icao = "eddm"
+version = 4.2
 
 def HandleAircraftOffsets(aircraftData, specificTables, genericTable):
     major_id = aircraftData.idMajor
@@ -425,8 +425,10 @@ def customOffsets6(aircraftData):
     
 Apron1Gate = CustomizedName("Apron 1 East | Gate #",1)
 Apron1GateA = CustomizedName("Apron 1 East | Gate # A",1)
-Apron1GateB = CustomizedName("Apron 1 East | Gate # B",1) 
+Apron1GateB = CustomizedName("Apron 1 East | Gate # B",1)
 Apron1Remote = CustomizedName("Apron 1 West | Gate #",2)
+
+Apron1GateX = CustomizedName("Apron 1 East | Gate 113 X",1)
 
 Apron2T = CustomizedName("Apron 2 | Gate #",3)
 Apron2TA = CustomizedName("Apron 2 | Gate # A",3)
@@ -440,6 +442,8 @@ Apron3 = CustomizedName("Apron 3 | Gate #",5)
 Apron3Sat = CustomizedName("Apron 3 Satelite | Gate #",6)
 Apron3SatA = CustomizedName("Apron 3 Satelite | Gate # A",6)
 Apron3SatB = CustomizedName("Apron 3 Satelite | Gate # B",6)
+
+Apron3Sat2 = CustomizedName("Apron 3 Satelite | Gate 318",6)
 
 Apron5 = CustomizedName("Apron 5 | Stand #",7)
 Apron6 = CustomizedName("Apron 6 | Stand #",8)
@@ -658,9 +662,9 @@ parkings = {
         701 : (Apron7, customOffsetequal, ),
         702 : (Apron7, customOffsetequal, ),
         703 : (Apron7, customOffsetequal, ),
-        
-        801 : (Apron8, customOffsetequal, ),
-        802 : (Apron8, customOffsetequal, ),
+
+        801 : (Apron1GateX, ),
+        802 : (Apron3Sat2, ),
         803 : (Apron8, customOffsetequal, ),
         804 : (Apron8, customOffsetequal, ),
         805 : (Apron8, customOffsetequal, ),
