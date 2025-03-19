@@ -1,7 +1,7 @@
 # -- coding: utf-8 --
 # Scenery = FSimStudios - BGGH Nuuk
 
-version = "1.0.1"
+version = "1.1.0"
 msfs_mode = 1
 icao = "bggh"
 
@@ -16,16 +16,12 @@ def default_stop(aircraftData):
 @AlternativeStopPositions
 def custom_stops(aircraftData):
     distances = {
-        0: 0,
-        330: 4.8,
-        340: 4.8,
-        350: 4.8,
-        757: 4.8,
-        767: 4.8,
-        777: 4.8
+        0: 9,
+        321: 0,
+        330: 0
     }
 
-    return Distance.fromMeters(distances.get(aircraftData.idMajor, 0))
+    return Distance.fromMeters(distances.get(aircraftData.idMajor, 9))
 
 parkings = {
     GATE : {
