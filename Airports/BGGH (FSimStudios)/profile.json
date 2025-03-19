@@ -18,6 +18,12 @@
     ],
     "Changelog": [
 		{
+            "Version": "1.1.0",
+            "ChangesURL": "",
+            "ChangesMd": "- Adjusted stop positions to match updated ground marking in v1.1.0 of the scenery",
+			"Date": "2025-03-09"
+        },
+		{
             "Version": "1.0.1",
             "ChangesURL": "",
             "ChangesMd": "- Slightly adjusted walk-in path at stand 2 to prevent pax from clipping into the stairs\n- Changed pushback trucks to towbar only ",
