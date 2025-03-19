@@ -296,6 +296,19 @@
         ]
     },
     {
+        "Folder": "EPKK (Drzewiecki Design V2)",
+        "ProfileICAO": "EPKK",
+        "Scenery": "Drzewiecki Design",
+        "Creator": "JBX Profiles",
+        "Version": "1.0.0",
+        "FileNames": [
+            "epkk-drzewiecki-winter.ini",
+            "epkk-drzewiecki.py",
+            "epkk-drzewiecki-winter.py",
+            "epkk-drzewiecki.ini"
+        ]
+    },
+    {
         "Folder": "EPSC (Papa Delta Studio)",
         "ProfileICAO": "EPSC",
         "Scenery": "Papa Delta Studio",
