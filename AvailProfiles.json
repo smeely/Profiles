@@ -323,11 +323,35 @@
         ]
     },
     {
+        "Folder": "EPKK (Drzewiecki Design V2)",
+        "ProfileICAO": "EPKK",
+        "Scenery": "Drzewiecki Design",
+        "Creator": "JBX Profiles",
+        "Version": "1.1.0",
+        "FileNames": [
+            "epkk-drzewiecki-winter.ini",
+            "epkk-drzewiecki.py",
+            "epkk-drzewiecki-winter.py",
+            "epkk-drzewiecki.ini"
+        ]
+    },
+    {
+        "Folder": "EPSC (Papa Delta Studio)",
+        "ProfileICAO": "EPSC",
+        "Scenery": "Papa Delta Studio",
+        "Creator": "Papa Delta Studio",
+        "Version": "0.9",
+        "FileNames": [
+            "epsc-papadelta.py",
+            "epsc-papadelta.ini"
+        ]
+    },
+    {
         "Folder": "EDDM (Simwings)",
         "ProfileICAO": "EDDM",
         "Scenery": "Aerosoft (Simwings)",
-        "Creator": "SimonTricks",
-        "Version": "4.1",
+        "Creator": "SimonTricks, Tom",
+        "Version": "4.2",
         "FileNames": [
             "eddm-simwings.py",
             "eddm-simwings.ini",
@@ -346,6 +370,17 @@
         "FileNames": [
             "lktb-darriancze.ini",
             "lktb-darriancze.py"
+        ]
+    },
+    {
+        "Folder": "BGGH (FSimStudios)",
+        "ProfileICAO": "BGGH",
+        "Scenery": "FSimStudios",
+        "Creator": "JBX Profiles",
+        "Version": "1.0.1",
+        "FileNames": [
+            "bggh-fss.py",
+            "bggh-fss.ini"
         ]
     },
     {
@@ -383,6 +418,17 @@
         ]
     },
     {
+        "Folder": "EPKK (Papa Delta Studio)",
+        "ProfileICAO": "EPKK",
+        "Scenery": "Papa Delta Studio",
+        "Creator": "Papa Delta Studio",
+        "Version": "0.9",
+        "FileNames": [
+            "epkk-papadelta.ini",
+            "epkk-papadelta.py"
+        ]
+    },
+    {
         "Folder": "EGPH (Pyreegue v2)",
         "ProfileICAO": "EGPH",
         "Scenery": "Pyreegue (v2)",
@@ -408,17 +454,6 @@
         ],
         "AddonFolders": [
             "mmsimulations-airport-entc-tromso"
-        ]
-    },
-    {
-        "Folder": "EPKK (nereusz)",
-        "ProfileICAO": "EPKK",
-        "Scenery": "nereusz",
-        "Creator": "nereusz",
-        "Version": "0.8",
-        "FileNames": [
-            "epkk-nereusz.ini",
-            "epkk-nereusz.py"
         ]
     },
     {
