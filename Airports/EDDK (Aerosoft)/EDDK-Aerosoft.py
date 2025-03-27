@@ -2,6 +2,7 @@
 
 msfs_mode = 1
 icao = "eddk"
+version = 1.4
 
 def HandleAircraftOffsets(aircraftData, specificTables, genericTable):
     major_id = aircraftData.idMajor
