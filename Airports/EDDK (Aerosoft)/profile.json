@@ -1,14 +1,17 @@
 {
     "ProfileICAO": "EDDK",
     "Scenery": "Aerosoft",
-    "Creator": "SimonTricks",
-    "Version": "1.3.3",
+    "Creator": "SimonTricks, Tom",
+    "Version": "1.4",
     "Configurations": [
         {
             "ConfigName": "GSX",
             "Files": [
                 {
-                    "FileName": "eddk-aerosoft-gsxvdgs-simontricks.ini"
+                    "FileName": "EDDK-Aerosoft-GSXVDGS.ini"
+                },
+	    	{
+                    "FileName": "EDDK-Aerosoft.py"
                 }
             ]
         },
@@ -16,7 +19,10 @@
             "ConfigName": "ASVDGS",
             "Files": [
                 {
-                    "FileName": "eddk-aerosoft-asvdgs-simontricks.ini"
+                    "FileName": "EDDK-Aerosoft-ASVDGS.ini"
+                },
+	    	{
+                    "FileName": "EDDK-Aerosoft.py"
                 }
             ]
         }
@@ -26,6 +32,12 @@
             "Version": "1.3.3",
             "ChangesURL": "",
 			"Date": "2024-08-29"
+        },
+	{
+            "Version": "1.4",
+            "ChangesURL": "",
+		"ChangesMd": "* Added .py file for gates naming and stop positions\n* Disabled wingwalkers\n* Added custom engine start positions\n* Fixed missing pushback options at some stands\n* Added some missing walk-in positions\n* Adjusted placement of vehicles and stop positions\n* Changed D gates VDGS to a better matching model\n* Labelled dotted E Stands as INOP as they are Isolated Parkings (Scenery Issue)\n* Set ground operators to Aviation Handling Services, Köln Bonn Airport and WISAG \n\n ######This update applies to Apron A thru F",
+			"Date": "2025-03-27"
         }
     ]
 }
