@@ -104,12 +104,13 @@
         "Folder": "EIDW (MK Studios v2)",
         "ProfileICAO": "EIDW",
         "Scenery": "MK Studios v2",
-        "Creator": "SimonTricks, James Robinson",
-        "Version": "1.5.2",
+        "Creator": "SimonTricks, James Robinson, JBX Profiles",
+        "Version": "2.0.0",
         "FileNames": [
-            "eidw-MKStudios.py",
             "eidw-mkstudiosv2-gsxvdgs-simontricks.ini",
-            "eidw-mkstudiosv2-simontricks.ini"
+            "eidw-mks.py",
+            "eidw-mks-noolvdgs.ini",
+            "eidw-mks-gsxvdgs.ini"
         ]
     },
     {
@@ -431,11 +432,13 @@
         "Folder": "EDDK (Aerosoft)",
         "ProfileICAO": "EDDK",
         "Scenery": "Aerosoft",
-        "Creator": "SimonTricks",
-        "Version": "1.3.3",
+        "Creator": "SimonTricks, Tom",
+        "Version": "1.4",
         "FileNames": [
-            "eddk-aerosoft-asvdgs-simontricks.ini",
-            "eddk-aerosoft-gsxvdgs-simontricks.ini"
+            "eddk-aerosoft-gsxvdgs-simontricks.ini",
+            "EDDK-Aerosoft-ASVDGS.ini",
+            "EDDK-Aerosoft-GSXVDGS.ini",
+            "EDDK-Aerosoft.py"
         ]
     },
     {
