@@ -30,22 +30,22 @@
     "Changelog": [
         {
             "Version": "2.0.0",
-            "ChangesURL": "- Redone all pushback procedures based on feedback from airport staff",
+            "ChangesMd": "- Redone all pushback procedures based on feedback from airport staff",
             "Date": "2025-03-09"
         },
         {
             "Version": "1.7.0",
-            "ChangesURL": "Compatibility update for EIDW v2.3.1:\n- Added stands 411L&R\n- Disabled stand 411T to avoid conflicts with 411L\n- Adjusted pushback on stand 411C",
+            "ChangesMd": "Compatibility update for EIDW v2.3.1:\n- Added stands 411L&R\n- Disabled stand 411T to avoid conflicts with 411L\n- Adjusted pushback on stand 411C",
             "Date": "2025-09-20"
         },
         {
             "Version": "1.6.0",
-            "ChangesURL": "- Added customized west apron (set up for cargo ops)\n- Fixed certain pushbacks at pier 4\n- Fixed ground handling assignments where missing\n- Added gates 411T, 144, 145 after EIDW v2.3.0 update\n- Adjusted gate namings in the python config",
+            "ChangesMd": "- Added customized west apron (set up for cargo ops)\n- Fixed certain pushbacks at pier 4\n- Fixed ground handling assignments where missing\n- Added gates 411T, 144, 145 after EIDW v2.3.0 update\n- Adjusted gate namings in the python config",
             "Date": "2025-02-12"
         },
 		{
             "Version": "1.5.2",
-            "ChangesURL": "",
+            "ChangesMd": "",
             "Date": "2024-09-05"
         }
     ]
