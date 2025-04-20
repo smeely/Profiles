@@ -1,0 +1,33 @@
+name: json-yaml-validate
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    paths:
+      - 'Airports/**/*.json' # Trigger only for JSON files in the Airports folder
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pull-requests: write # enable write permissions for pull request comments
+
+jobs:
+  json-yaml-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v35
+        with:
+          files: 'Airports/**/*.json'
+
+      - name: Validate JSON files
+        if: steps.changed-files.outputs.any_changed == 'true'
+        uses: GrantBirki/json-yaml-validate@v3.3.0
+        with:
+          comment: "true" # enable comment mode
+          base_dir: ./ # Base directory for validation
+          files: ${{ steps.changed-files.outputs.all_changed_files }} # Validate only changed files
