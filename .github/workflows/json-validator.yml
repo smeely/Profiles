@@ -1,4 +1,5 @@
-name: json-yaml-validate
+name: JSON Validator
+description: Validate JSON files in the Airports folder and comment on PRs with the diff
 on:
   push:
     branches:
@@ -16,18 +17,23 @@ jobs:
   json-yaml-validate:
     runs-on: ubuntu-latest
     steps:
+      # Checkout the repo
       - uses: actions/checkout@v4
-
-      - name: Get changed files
-        id: changed-files
-        uses: tj-actions/changed-files@v35
         with:
-          files: 'Airports/**/*.json'
+          fetch-depth: 0 # needed to checkout all branches for this Action to work
 
+      # Check the PR diff using the current branch and the base branch of the PR
+      - uses: GrantBirki/git-diff-action@v2.8.0
+        id: git-diff-action
+        with:
+          json_diff_file_output: diff.json
+          file_output_only: "true"
+
+      # Validate JSON files
       - name: Validate JSON files
-        if: steps.changed-files.outputs.any_changed == 'true'
+        if: ${{ steps.git-diff-action.outputs.json-diff-path != '' }}
         uses: GrantBirki/json-yaml-validate@v3.3.0
         with:
           comment: "true" # enable comment mode
           base_dir: ./ # Base directory for validation
-          files: ${{ steps.changed-files.outputs.all_changed_files }} # Validate only changed files
+          files: ${{ steps.git-diff-action.outputs.json-diff-path }} # Validate only changed files
