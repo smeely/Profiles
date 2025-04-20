@@ -27,14 +27,7 @@ jobs:
         id: git-diff-action
         with:
           json_diff_file_output: diff.json
-          raw_diff_file_output: diff.txt
           file_output_only: "true"
-
-      # Print the diff in JSON format
-      - name: Print JSON diff
-        env:
-          DIFF: ${{ steps.git-diff-action.outputs.json-diff-path }}
-        run: cat $DIFF
 
       # Validate JSON files
       - name: Validate JSON files
