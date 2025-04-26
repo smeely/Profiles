@@ -1,6 +1,6 @@
 # -- coding: utf-8 --
 
-version = 1.4
+version = 1.5
 msfs_mode = 1
 icao = "eddf"
 
