@@ -5,10 +5,21 @@
     "Version": 1.2,
     "Configurations": [
         {
-            "ConfigName": "GSX",
+            "ConfigName": "GSX VDGS",
             "Files": [
                 {
                     "FileName": "LPPT-MKStudios.ini"
+                },
+                {
+                    "FileName": "LPPT-MKStudios.py"
+                }
+            ]
+        },
+        {
+            "ConfigName": "NOOL VDGS",
+            "Files": [
+                {
+                    "FileName": "LPPT-MKStudios-NOOL.ini"
                 },
                 {
                     "FileName": "LPPT-MKStudios.py"
