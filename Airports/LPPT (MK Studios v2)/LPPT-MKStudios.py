@@ -2,7 +2,7 @@
 
 msfs_mode = 1
 icao = "lppt"
-version = 1.2
+version = "1.2.0"
 
 def HandleAircraftOffsets(aircraftData, specificTables, genericTable):
     major_id = aircraftData.idMajor
