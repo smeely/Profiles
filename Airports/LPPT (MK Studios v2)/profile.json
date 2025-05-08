@@ -2,10 +2,10 @@
     "ProfileICAO": "LPPT",
     "Scenery": "MK Studios v2",
     "Creator": "Luca, Tom",
-    "Version": 1.2,
+    "Version": "1.2.0",
     "Configurations": [
         {
-            "ConfigName": "GSX VDGS",
+            "ConfigName": "GSX",
             "Files": [
                 {
                     "FileName": "LPPT-MKStudios.ini"
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "ConfigName": "NOOL VDGS",
+            "ConfigName": "NOOL",
             "Files": [
                 {
                     "FileName": "LPPT-MKStudios-NOOL.ini"
@@ -29,7 +29,7 @@
     ],
     "Changelog": [
         {
-            "Version": 1.2,
+            "Version": "1.2.0",
 		    "ChangesMd": "* Initial release on GSXHub",
 			"Date": "2025-05-08"
         }
