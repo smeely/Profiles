@@ -9,4 +9,5 @@
 
 -> If you are using GSX VDGS remove the NOOL folder
 
-##### This profile is strictly for v2 ONLY.
+##### This profile is for v2 of the scenery. 
+##### You will also find this profile on the MK Studios Discord Server.
