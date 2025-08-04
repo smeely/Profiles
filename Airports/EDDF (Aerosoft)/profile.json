@@ -2,7 +2,7 @@
     "ProfileICAO": "EDDF",
     "Scenery": "Aerosoft",
     "Creator": "Jk23",
-    "Version": 1.4,
+    "Version": 1.5,
     "Configurations": [
         {
             "ConfigName": "GSX Full",
@@ -50,6 +50,11 @@
         }
     ],
     "Changelog": [
+		{
+			"Version": 1.5,
+			"ChangesMD": "- Implemented SafeDockX VDGS systems at applicable stands, based on real-life placements 1\n - Updated maximum wingspan limits for each stand 2\n - Added custom engine start poitions where applicable",
+			"Date": "2025-04-20"
+        },
 	    {
             "Version": 1.4,
             "ChangesURL": "",

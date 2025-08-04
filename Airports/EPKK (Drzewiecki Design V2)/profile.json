@@ -1,0 +1,43 @@
+{
+    "ProfileICAO": "EPKK",
+    "Scenery": "Drzewiecki Design",
+    "Creator": "JBX Profiles",
+    "Version": "1.1.0",
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "epkk-drzewiecki.ini"
+                },
+                {
+                    "FileName": "epkk-drzewiecki.py"
+                }
+            ]
+        },
+        {
+            "ConfigName": "Winter",
+            "Files": [
+                {
+                    "FileName": "epkk-drzewiecki-winter.ini"
+                },
+                {
+                    "FileName": "epkk-drzewiecki-winter.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+        {
+            "Version": "1.1.0",
+            "ChangesURL": "",
+            "ChangesMd": "- Added pushbacks facing east at gates 1&2",
+			"Date": "2025-03-21"
+        },
+        {
+            "Version": "1.0.0",
+            "ChangesURL": "",
+			"Date": "2025-03-19"
+        }
+    ]
+}

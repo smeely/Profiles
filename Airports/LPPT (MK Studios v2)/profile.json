@@ -1,0 +1,37 @@
+{
+    "ProfileICAO": "LPPT",
+    "Scenery": "MK Studios v2",
+    "Creator": "Luca, Tom",
+    "Version": "1.2.0",
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "LPPT-MKStudios.ini"
+                },
+                {
+                    "FileName": "LPPT-MKStudios.py"
+                }
+            ]
+        },
+        {
+            "ConfigName": "NOOL",
+            "Files": [
+                {
+                    "FileName": "LPPT-MKStudios-NOOL.ini"
+                },
+                {
+                    "FileName": "LPPT-MKStudios.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+        {
+            "Version": "1.2.0",
+		    "ChangesMd": "* Initial release on GSXHub",
+			"Date": "2025-05-08"
+        }
+    ]
+}
