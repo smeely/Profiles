@@ -2,7 +2,7 @@
     "ProfileICAO": "LKMT",
     "Scenery": "Flying Partners Slovakia",
     "Creator": "DarrianCZE",
-    "Version": 1.1,
+    "Version": 1.2,
     "Configurations": [
         {
             "ConfigName": "GSX",
@@ -17,6 +17,11 @@
         }
     ],
     "Changelog": [
+        {
+            "Version": 1.2,
+            "ChangesURL": "",
+			"Date": "2025-08-04"
+        },
         {
             "Version": 1.1,
             "ChangesURL": "https://github.com/Hinshee/GSX-Profiles/pull/13",
