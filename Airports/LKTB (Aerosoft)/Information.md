@@ -3,6 +3,8 @@ Available from these retailers: [Aerosoft.com](https://www.aerosoft.com/en/shop/
 
  **!! IMPORTANT !! = In the current version of the scenery, Stand 1 at Apron Middle is incorrectly rotated towards the terminal, but in the real life, all planes at Apron Middle are parked with their nose towards the taxiway. In case you want to use the GSX at Stand 1, choose it from the GSX menu and select "Just warp me there", and your plane will be correctly positioned.**
 
+ **Minimum GSX Version: 3.6.6**
+
 ## Features:
 - Custom passenger walk-in paths
 - Custom vehicle placement

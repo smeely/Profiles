@@ -2,7 +2,7 @@
     "ProfileICAO": "LKTB",
     "Scenery": "Aerosoft",
     "Creator": "DarrianCZE",
-    "Version": 3.2,
+    "Version": 3.3,
     "Configurations": [
         {
             "ConfigName": "GSX",
@@ -17,6 +17,11 @@
         }
     ],
     "Changelog": [
+        {
+            "Version": 3.3,
+            "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/97",
+			"Date": "2025-08-17"
+        },
         {
             "Version": 3.2,
             "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/97",
