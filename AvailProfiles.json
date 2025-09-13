@@ -527,5 +527,17 @@
             "eglc-uk2000-vee2-146.py",
             "eglc-uk2000-vee2.ini"
         ]
+    },
+    {
+        "Folder": "EGBB (Pyreegue)",
+        "ProfileICAO": "EGBB",
+        "Scenery": "Pyreegue",
+        "Creator": "Hinshee",
+        "Version": "1.1",
+        "FileNames": [
+            "egbb-pyreegue-hinshee-2020.ini",
+            "egbb-pyreegue-hinshee-2024.ini",
+            "egbb-pyreegue-hinshee.py"
+        ]
     }
 ]
